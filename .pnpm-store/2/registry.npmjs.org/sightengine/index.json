@@ -1,0 +1,124 @@
+{
+	"name": "sightengine",
+	"dist-tags": {
+		"latest": "1.3.1"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "sightengine",
+			"version": "1.0.0",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"shasum": "6eed6888229119098e1f7def9d9a4223f5ec1520",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.0.0.tgz"
+			}
+		},
+		"1.1.0": {
+			"name": "sightengine",
+			"version": "1.1.0",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-b95YldI7KEROQRXb6rJADPJGm+sMViwy6r83UW2Emu9QjmY+R12zNzrGz/hQtp4Yu6w4rGtoWER049PvCpIaFg==",
+				"shasum": "52beb7b8f6914e3603c9c7e2b06622c6d10d37bc",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.1.0.tgz"
+			}
+		},
+		"1.1.1": {
+			"name": "sightengine",
+			"version": "1.1.1",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-/8GKMXPOZlrWzJQ7TzNrk2SmhaqtTlQvvxl7Bi9S5gddG1+08VaUm3vyqGvyewRkcXPLytVleoiWnatK1WoKPw==",
+				"shasum": "9479f0befdc34fc9f7457454e0262ef25ba37999",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.1.1.tgz"
+			}
+		},
+		"1.1.2": {
+			"name": "sightengine",
+			"version": "1.1.2",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-XxLyRcTpdrNnjECaGJktIiKcCwjep+JVyiiJ0GNO7xf2ShJDYKBZb/now09/xy3kvhGvz8vmqPhzmZ1Y4n99Gg==",
+				"shasum": "67115065bc7fa8e3ddaec8d992c2ecea7081c720",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.1.2.tgz"
+			}
+		},
+		"1.2.0": {
+			"name": "sightengine",
+			"version": "1.2.0",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-l7I02KGPoCX4LcGOIOe/0fcY4X/0L1kCa6Lr+mDsubzB8e33mbhzXvFdMJGaOaP7oBIluF543Soq7Q/pkuJxuQ==",
+				"shasum": "1eb7dad0319604f886c30f8bf88bdc27376008a5",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.2.0.tgz"
+			}
+		},
+		"1.2.1": {
+			"name": "sightengine",
+			"version": "1.2.1",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-PJcV9pQWEGV9+FJITpMVIPn5OnvUboVjM17Q7NZ4FNlNbgpsBTD/F3wgD2MO2cjzoYlMq3lvtSGQALZSHMkxVQ==",
+				"shasum": "0f6c069ef36c614013fc7136bd7e11f79f77c0d5",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.2.1.tgz"
+			}
+		},
+		"1.3.1": {
+			"name": "sightengine",
+			"version": "1.3.1",
+			"dependencies": {
+				"form-data": "^2.1.4",
+				"node-fetch": "^1.6.3"
+			},
+			"devDependencies": {
+				"mocha": "^3.3.0"
+			},
+			"dist": {
+				"integrity": "sha512-ExSvvBiW3YTOqHkbdoSZ+EUmHPw8YC+9B3rRtZERgZPUWWPyjQ5O/7gFlJlQHXfto8y9pGwW0TcINGDU7kOpcA==",
+				"shasum": "df9ce3e886858a15ac1d232db94905db419ed155",
+				"tarball": "https://registry.npmjs.org/sightengine/-/sightengine-1.3.1.tgz",
+				"fileCount": 8,
+				"unpackedSize": 101049,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbC/bBCRA9TVsSAnZWagAAKcsQAJjKSne+3C2kr89B5JdN\n5HnPEN1LLqVaAFqOwEXkIilS5GFeNtdXcDiTOY4QVlH1+1m1O486IOiSxbS5\nYItOpRBjLveKV5/sn8C1O1WnGN0qGMMzDAYuZgnG11NY9bbNENmyWvveVNSu\nk0jk6ENAytTlK0xepxdGsUh/j3A5cP1WQOvSNMCCk93gDmKBqJm/N7p2v2O9\nHPP0i8v1VUv/2uDrm3T8vx+2AkpyWvE1ye8/+uMc3uACG++ejo/wOR7wOrqb\nUe4F3JDYWlTfGF73gTOxsgVBP2ShpADNpJuAssvMEmNN4cWR9d22XaFe+PQv\nf1dyYoXivi5fjAuoNDYtUilTk9ys1edE+Zz5VCgcQSIu4d28TLBLGDwmc+6Q\nMOcTMkhum27A1ns4EOQjmIM80y0KyMwtfrhEBsa2JOEaus1nn1TZu5maRc4J\nUvsM3G4Yh+Qcs1kX0YRm4x7YbX70WlEAFh2AuZ+bME6KqbjTcjaqaHxMPr3x\nkYdBx1bRacO++R6xGef1RGXg6229RA8fLn7VL3QJ6WSnYzv0tGvlGvIHoZ9f\nzTsb7hSaj5YBzYdMYNqdqC3iW50Rdqr/HGkrYSFerY0JytXQNlbPRJuuvAou\ndtu/FN+8HaGXqAYoaC+u5sTb0larz3BE6xYXje4whDoJL+ufWLMYbJCIr94W\npRbU\r\n=cgmA\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"modified": "2018-05-28T12:32:06.317Z",
+	"cachedAt": 1593867027231
+}

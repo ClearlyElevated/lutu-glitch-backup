@@ -1,0 +1,20 @@
+<%- include('blocks/header', {bot, user, path}) %>
+<script>
+  function wrapToDashboard() {
+    location.href = "/dashboard";
+  };
+
+  function wrapToInfo() {
+    location.href = "/info";
+    console.log("2");
+  };
+</script>
+
+<div class="text-center">
+  <img src="<%= bot.user.displayAvatarURL({ size: 512 }) %>" alt="Lutu Icon" style="border-radius: 50%;">
+  <br><br>
+  <a href="//www.dmca.com/Protection/Status.aspx?ID=792446bb-a456-4015-adeb-ce5506662721" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-11.png?ID=792446bb-a456-4015-adeb-ce5506662721"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script> 
+  <h3>Lutu, The Artificial Intelligence Powered Discord Bot!</h3>
+  <p>No Admins/Mods? Dont Worry! With Lutu's Advancted AI Auto-Moderation Features, Its Highly Unlikely You Ever Need Another Security Guard.</p>
+  <button type="button" onclick="wrapToDashboard();"class="btn btn-outline-warning btn-lg">Select Server</button> 
+</div> 

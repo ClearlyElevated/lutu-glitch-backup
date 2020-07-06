@@ -1,0 +1,2313 @@
+[2020-01-04 06:11:08]: Jed Duderstadt#8844 (ID:427326785051688961) ran help in Reputation (ID: 558446580869496862)
+Raw Input |?help|
+[2020-01-04 06:11:20]: Jed Duderstadt#8844 (ID:427326785051688961) ran settings in Reputation (ID: 558446580869496862)
+Raw Input |?settings|
+[2020-01-04 14:02:01]: DeathHound#8339 (ID:571283749652660225) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-01-04 14:11:47]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help|
+[2020-01-04 14:11:57]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help banlist|
+[2020-01-04 14:12:55]: DeathHound#8339 (ID:571283749652660225) ran scan in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;scan warn|
+[2020-01-04 14:13:34]: DeathHound#8339 (ID:571283749652660225) ran report in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;report|
+[2020-01-04 14:18:45]: 》♤ʍяȼя¥ρţɨȼж♤《#9900 (ID:503215722407657478) ran check in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%check <@584279261368811520>|
+[2020-01-04 14:19:07]: 》♤ʍяȼя¥ρţɨȼж♤《#9900 (ID:503215722407657478) ran check in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%check <@503215722407657478>|
+[2020-01-04 14:19:16]: 》♤ʍяȼя¥ρţɨȼж♤《#9900 (ID:503215722407657478) ran stats in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%stats <@503215722407657478>|
+[2020-01-04 14:19:35]: 》♤ʍяȼя¥ρţɨȼж♤《#9900 (ID:503215722407657478) ran myperms in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%myperms|
+[2020-01-04 14:26:07]: AlexDevelopment#3948 (ID:656693245669015572) ran invite in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;invite|
+[2020-01-04 15:15:40]: Itz_Unknown#4534 (ID:379784651792711700) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-01-04 15:17:15]: 》♤ItzMrSmith♤《#2643 (ID:660260846139604994) ran myperms in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%myperms|
+[2020-01-04 15:41:50]: JuicyJesper#0205 (ID:144843908877123585) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-01-04 15:41:57]: JuicyJesper#0205 (ID:144843908877123585) ran ping in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.ping|
+[2020-01-04 16:15:54]: TechmandanCZ#0135 (ID:147365975707090944) ran help in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%help|
+[2020-01-04 17:46:02]: X Daniel#3582 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-01-04 17:46:17]: X Daniel#3582 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-01-04 17:46:24]: X Daniel#3582 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-01-04 21:42:31]: X Daniel#3582 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-01-05 13:50:53]: MrAugu#7917 (ID:367302593753645057) ran check in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?check <@!367302593753645057>|
+[2020-01-05 15:37:56]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-05 15:38:02]: ClearlyElevated#0001 (ID:542058542853521461) ran track in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?track 588294864484171787|
+[2020-01-05 15:38:07]: ClearlyElevated#0001 (ID:542058542853521461) ran fetch in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?fetch 588294864484171787|
+[2020-01-05 15:38:26]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-05 15:38:31]: ClearlyElevated#0001 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?status dnd|
+[2020-01-05 15:38:48]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?scan warn|
+[2020-01-05 16:52:49]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-05 16:52:53]: ClearlyElevated#0001 (ID:542058542853521461) ran botban in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?bb 503215722407657478|
+[2020-01-05 16:54:13]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help bb|
+[2020-01-05 16:54:18]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help botban|
+[2020-01-05 16:54:29]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-05 16:54:34]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-05 16:55:02]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?reload botban|
+[2020-01-05 16:55:09]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-05 16:55:15]: ClearlyElevated#0001 (ID:542058542853521461) ran restart in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?restart|
+[2020-01-05 16:55:22]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-05 16:55:26]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help restart|
+[2020-01-05 16:55:28]: ClearlyElevated#0001 (ID:542058542853521461) ran restart in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?restart|
+[2020-01-05 16:55:36]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-05 16:55:41]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-05 16:55:44]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-05 17:01:43]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help moderation|
+[2020-01-05 20:02:52]: ClearlyElevated#0001 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?serverinfo|
+[2020-01-05 20:33:14]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-01-05 20:33:17]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Underground (ID: 543838348062621760)
+Raw Input |]stats|
+[2020-01-05 20:34:31]: ClearlyElevated#0001 (ID:542058542853521461) ran announce in Underground (ID: 543838348062621760)
+Raw Input |]announce <#564591479960502273> #2c2f33 | <@&568990847635554314>  | ```yaml
+Would you rather..
+```
+```tex
+$ Have an easy job working for someone else or work for yourself but work incredibly hard?
+```|
+[2020-01-05 20:35:05]: ClearlyElevated#0001 (ID:542058542853521461) ran announce in Underground (ID: 543838348062621760)
+Raw Input |]announce <#564591479960502273> #2c2f33 | QOTD  | ```yaml
+Would you rather..
+```
+```tex
+$ Have an easy job working for someone else or work for yourself but work incredibly hard?
+```|
+[2020-01-05 20:44:12]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in DMs (ID: 0)
+Raw Input |?ping|
+[2020-01-05 20:44:18]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in DMs (ID: 0)
+Raw Input |?stats|
+[2020-01-05 20:49:59]: ClearlyElevated#0001 (ID:542058542853521461) ran restart in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?restart|
+[2020-01-05 21:29:33]: ClearlyElevated#0001 (ID:542058542853521461) ran poll in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?poll **Do you remember <@367302593753645057>**|
+[2020-01-05 22:14:56]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?reload botban|
+[2020-01-05 22:15:03]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help ban list|
+[2020-01-05 22:15:08]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-05 22:15:43]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?reload botban|
+[2020-01-05 22:15:47]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-05 22:55:21]: ClearlyElevated#0001 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?status dnd|
+[2020-01-06 06:01:50]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-01-06 06:01:53]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-06 06:02:06]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lookup <@!656693245669015572>|
+[2020-01-06 06:02:11]: ClearlyElevated#0001 (ID:542058542853521461) ran userinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?userinfo <@!656693245669015572>|
+[2020-01-06 06:02:24]: ClearlyElevated#0001 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?serverinfo|
+[2020-01-06 11:20:58]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-01-06 11:21:06]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help tools|
+[2020-01-06 11:22:45]: ClearlyElevated#0001 (ID:542058542853521461) ran roleinfo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!roleinfo <@&581295110407323671>|
+[2020-01-06 11:23:01]: ClearlyElevated#0001 (ID:542058542853521461) ran roleinfo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!roleinfo ❰ Support Team ❱|
+[2020-01-06 13:55:38]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 99|
+[2020-01-06 18:43:21]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?reload restart|
+[2020-01-06 18:43:23]: ClearlyElevated#0001 (ID:542058542853521461) ran restart in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?restart|
+[2020-01-06 18:43:28]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 25|
+[2020-01-06 18:44:42]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-01-06 18:44:56]: ClearlyElevated#0001 (ID:542058542853521461) ran botban in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?botban 640956120818778148|
+[2020-01-06 18:45:17]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-01-06 18:45:34]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?case 585892 approve|
+[2020-01-06 18:48:21]: DeathHound#8339 (ID:571283749652660225) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?case 333773|
+[2020-01-06 18:48:29]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans").findOne({ caseID: "792439" });|
+[2020-01-06 18:49:40]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans").findOne({ caseID: "333773" });|
+[2020-01-06 18:51:09]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans").findOne({ caseID: "881561" });|
+[2020-01-06 18:51:26]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans").findOneAndDelete({ caseID: "881561" });|
+[2020-01-06 18:51:34]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans").findOne({ caseID: "881561" });|
+[2020-01-06 18:51:46]: DeathHound#8339 (ID:571283749652660225) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-01-06 19:01:00]: ClearlyElevated#0001 (ID:542058542853521461) ran userinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?userinfo <@!571283749652660225>|
+[2020-01-06 19:15:04]: DeathHound#8339 (ID:571283749652660225) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-01-07 00:43:14]: MrAugu#7917 (ID:367302593753645057) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev this|
+[2020-01-07 00:44:18]: MrAugu#7917 (ID:367302593753645057) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev require("../models/bans.js")|
+[2020-01-07 01:33:46]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 25|
+[2020-01-07 01:33:57]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 10|
+[2020-01-07 18:56:30]: ClearlyElevated#0001 (ID:542058542853521461) ran admins in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?admins|
+[2020-01-07 23:28:18]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-07 23:28:23]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 3|
+[2020-01-07 23:28:27]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-07 23:28:31]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-07 23:28:34]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help mod|
+[2020-01-07 23:28:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-01-07 23:28:49]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help general|
+[2020-01-08 02:05:31]: Itz_Unknown#4534 (ID:379784651792711700) ran myperms in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]myperms|
+[2020-01-08 17:40:04]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-08 17:40:32]: ClearlyElevated#0001 (ID:542058542853521461) ran warn in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?warn 1 <@!431485263810920448> || Trying To Advertise In A Bot Specific Server |||
+[2020-01-08 18:01:19]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 5|
+[2020-01-08 18:02:19]: ClearlyElevated#0001 (ID:542058542853521461) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!542686176533020673> || Previously Banned |||
+[2020-01-08 18:03:22]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lockdown on|
+[2020-01-08 18:03:33]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lockdown off|
+[2020-01-08 18:04:50]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-01-08 18:16:07]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?scan warn|
+[2020-01-10 04:26:47]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev 
+message.channel.createWebhook("Example Webhook", "https://i.imgur.com/p2qNFag.png")|
+[2020-01-10 13:16:41]: HirboSH#9918 (ID:501465377918812161) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help|
+[2020-01-10 13:16:53]: HirboSH#9918 (ID:501465377918812161) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help moderation|
+[2020-01-11 20:52:06]: 》♤ItzMrSmith♤《#2643 (ID:660260846139604994) ran mute in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%mute <@!390261155962159108>  stop|
+[2020-01-11 20:52:29]: 》♤ItzMrSmith♤《#2643 (ID:660260846139604994) ran mute in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%mute <@!390261155962159108>  stop|
+[2020-01-11 20:52:35]: 》♤ItzMrSmith♤《#2643 (ID:660260846139604994) ran setup in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%setup mutedrole|
+[2020-01-11 23:27:30]: tomq#0608 (ID:366128882858065930) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-11 23:27:40]: tomq#0608 (ID:366128882858065930) ran invite in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?invite|
+[2020-01-12 01:16:48]: ClearlyElevated#0001 (ID:542058542853521461) ran invite in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?invite|
+[2020-01-12 03:04:37]: ItzDerockYT#0001 (ID:273629350476382218) ran help in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%help|
+[2020-01-12 04:02:29]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-01-12 04:02:34]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-01-12 04:02:36]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-01-12 04:02:41]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-12 04:02:52]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats dnd|
+[2020-01-12 04:02:55]: ClearlyElevated#0001 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?status dnd|
+[2020-01-12 04:03:02]: ClearlyElevated#0001 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?status invisible|
+[2020-01-12 04:03:06]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 10|
+[2020-01-12 04:37:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-01-12 04:39:50]: ClearlyElevated#0001 (ID:542058542853521461) ran invite in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!invite|
+[2020-01-12 04:41:48]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-01-12 04:41:51]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-01-12 04:41:55]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help setup|
+[2020-01-12 04:42:40]: PuckZ#4416 (ID:649637005839433764) ran help in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%help|
+[2020-01-12 04:42:47]: PuckZ#4416 (ID:649637005839433764) ran help in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%help moderation|
+[2020-01-12 04:43:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-01-12 04:43:42]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help info|
+[2020-01-12 12:49:00]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown on|
+[2020-01-12 12:55:36]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown off|
+[2020-01-13 08:08:14]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Underground (ID: 543838348062621760)
+Raw Input |?info|
+[2020-01-13 08:11:16]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Underground (ID: 543838348062621760)
+Raw Input |?info|
+[2020-01-14 01:20:09]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |$help|
+[2020-01-14 01:20:45]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Discord House (ID: 618096622559035392)
+Raw Input |$ping|
+[2020-01-14 01:20:58]: ClearlyElevated#0001 (ID:542058542853521461) ran prefix in Discord House (ID: 618096622559035392)
+Raw Input |$prefix $$|
+[2020-01-14 01:21:29]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |$$help|
+[2020-01-14 01:21:44]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Discord House (ID: 618096622559035392)
+Raw Input |$$info|
+[2020-01-14 07:13:21]: ClearlyElevated#0001 (ID:542058542853521461) ran prefix in Discord House (ID: 618096622559035392)
+Raw Input |$$prefix !|
+[2020-01-14 07:13:24]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Discord House (ID: 618096622559035392)
+Raw Input |!report|
+[2020-01-14 07:14:01]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Discord House (ID: 618096622559035392)
+Raw Input |!case 626799 approve|
+[2020-01-14 07:14:06]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan warn|
+[2020-01-14 07:14:23]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 10|
+[2020-01-14 09:33:01]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-01-14 10:10:32]: Music Master#8030 (ID:386534072106876929) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help banlist|
+[2020-01-14 10:11:28]: Music Master#8030 (ID:386534072106876929) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup 601632899048931369|
+[2020-01-14 10:11:42]: Music Master#8030 (ID:386534072106876929) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup|
+[2020-01-14 10:12:00]: Music Master#8030 (ID:386534072106876929) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup 386534072106876929|
+[2020-01-14 18:27:38]: 🌈Ivan S. 🌈#4534 (ID:379784651792711700) ran myperms in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]myperms|
+[2020-01-14 22:53:01]: FactionsMyth#2643 (ID:660260846139604994) ran help in FireCloud Hosting (ID: 641046510091501588)
+Raw Input |%help mute|
+[2020-01-15 16:44:36]: FD | FierceDragon#7408 (ID:484031943021690883) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help|
+[2020-01-15 16:45:30]: FD | FierceDragon#7408 (ID:484031943021690883) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help moderation|
+[2020-01-15 16:46:34]: FD | FierceDragon#7408 (ID:484031943021690883) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help tools|
+[2020-01-15 16:47:34]: FD | FierceDragon#7408 (ID:484031943021690883) ran define in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]define loneliness|
+[2020-01-15 16:48:47]: FD | FierceDragon#7408 (ID:484031943021690883) ran roles in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]roles|
+[2020-01-15 23:40:00]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ev this.client.commands|
+[2020-01-17 14:59:53]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;report|
+[2020-01-17 15:00:34]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;case 174794 approve|
+[2020-01-19 06:33:13]: CSD'ˢᵘᵈᵉ#0304 (ID:303503525965463554) ran help in Fun4Apeiron (ID: 636073523177062421)
+Raw Input |%help|
+[2020-01-19 06:38:13]: CSD'ˢᵘᵈᵉ#0304 (ID:303503525965463554) ran help in Fun4Apeiron (ID: 636073523177062421)
+Raw Input |%help|
+[2020-01-19 06:38:22]: CSD'ˢᵘᵈᵉ#0304 (ID:303503525965463554) ran help in Fun4Apeiron (ID: 636073523177062421)
+Raw Input |%help moderation|
+[2020-01-21 01:44:34]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-01-21 01:44:37]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-01-23 03:17:52]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report|
+[2020-01-23 03:18:34]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report|
+[2020-01-23 03:18:54]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report|
+[2020-01-23 03:20:27]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-01-23 03:20:38]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help general|
+[2020-01-23 03:20:53]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help settings|
+[2020-01-23 15:19:10]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole <@&581464178632556574>|
+[2020-01-23 21:28:48]: X Daniel#0017 (ID:476188720521805825) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report|
+[2020-01-24 05:09:21]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Realm X (ID: 579385116443541526)
+Raw Input |?lookup <@!476188720521805825>|
+[2020-01-24 05:09:32]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warm|
+[2020-01-24 05:09:40]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-01-24 11:53:31]: ClearlyElevated#0001 (ID:542058542853521461) ran announce in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?announce <#650479351229317120> #7289da | `v1.2.5` | ***We have re-added the management commands. So you can now manage ALL of the bots settings via discord instead of needing to go to the dashboard to manage things such as the checkpoint channel/joinrole/staff roles. The available options are __IgnoredRoles, IgnoredUsers, joinrole, modrole, adminrole, checkpoint, IgnoredChannels, & Anti-NSFW!__*** 
+
+> `Hope you enjoy the added functionality`
+```— Lutu Administration Team```|
+[2020-01-24 11:54:26]: ClearlyElevated#0001 (ID:542058542853521461) ran announce in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?announce <#650479351229317120> #7289da | `Update: v1.2.5` | ***We have re-added the management commands. So you can now manage ALL of the bots settings via discord instead of needing to go to the dashboard to manage things such as the checkpoint channel/joinrole/staff roles. The available options are __IgnoredRoles, IgnoredUsers, joinrole, modrole, adminrole, checkpoint, IgnoredChannels, & Anti-NSFW!__*** 
+
+> `Hope you enjoy the added functionality`
+
+```— Lutu Administration Team```|
+[2020-01-25 19:38:11]: 🌈Ivan S.💖#4534 (ID:379784651792711700) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help|
+[2020-01-25 19:38:20]: 🌈Ivan S.💖#4534 (ID:379784651792711700) ran case in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]case 54545 approve|
+[2020-01-26 02:29:14]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@461978596580524052>|
+[2020-01-26 21:56:48]: Jasper#0005 (ID:595337776853942309) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-01-28 02:49:47]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@508432272584867860>|
+[2020-01-29 11:58:14]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown on|
+[2020-01-29 11:58:58]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown off|
+[2020-01-30 20:01:00]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@672345528322752532>|
+[2020-01-30 20:02:17]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@671033976697389128>|
+[2020-01-30 23:02:39]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@372232519388495874>|
+[2020-01-31 15:33:19]: Sporks#0437 (ID:630730262765895680) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-02-02 04:54:51]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick @Fucking, Squirrel!|
+[2020-02-02 04:55:32]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@669805011475365898>|
+[2020-02-05 03:48:15]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-02-05 03:48:24]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-05 08:41:19]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Discord House (ID: 618096622559035392)
+Raw Input |!stats|
+[2020-02-05 08:41:31]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Discord House (ID: 618096622559035392)
+Raw Input |!eval this.client.users.size|
+[2020-02-05 08:41:42]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Discord House (ID: 618096622559035392)
+Raw Input |!eval this.client.commands|
+[2020-02-05 20:22:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-02-05 20:22:47]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole reset|
+[2020-02-05 20:23:09]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 99|
+[2020-02-06 08:39:30]: coondog30#4354 (ID:674875164638314527) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-02-07 07:47:54]: ClearlyElevated#0001 (ID:542058542853521461) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@674875164638314527> Please change username/nickname|
+[2020-02-07 18:52:15]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?info|
+[2020-02-07 18:52:28]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-02-07 18:52:34]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-02-07 18:52:38]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-02-07 18:52:47]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-02-07 23:01:52]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@569991300145873126> Careful with your use of statements. Attempting to call up porn will get you banned from this server|
+[2020-02-08 09:10:55]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lookup <@541826907209990176>|
+[2020-02-08 09:11:05]: ClearlyElevated#0001 (ID:542058542853521461) ran check in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!check <@541826907209990176>|
+[2020-02-08 09:11:31]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-08 21:55:16]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-02-08 21:55:35]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole <@&581464178632556574>|
+[2020-02-08 21:55:45]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 99|
+[2020-02-08 22:09:22]: ClearlyElevated#0001 (ID:542058542853521461) ran poll in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!poll **__Do you guys prefer discord?__ Or would you like to see us eventually moving over to our own in house own and operated forum website/Bulletin board style site?**|
+[2020-02-09 00:14:53]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-09 00:15:00]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-02-09 07:27:24]: ClearlyElevated#0001 (ID:542058542853521461) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@674875164638314527> || Racist Username |||
+[2020-02-09 07:27:44]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-02-09 07:28:41]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?case 494476 approve|
+[2020-02-09 07:29:04]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-02-09 07:29:28]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!case 725561 approve|
+[2020-02-09 07:29:34]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-09 07:29:43]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lookup 674875164638314527|
+[2020-02-09 07:56:46]: ClearlyElevated#0001 (ID:542058542853521461) ran antinsfw in Underground (ID: 543838348062621760)
+Raw Input |]antinsfw reset|
+[2020-02-09 07:56:57]: ClearlyElevated#0001 (ID:542058542853521461) ran antinsfw in Underground (ID: 543838348062621760)
+Raw Input |]antinsfw status|
+[2020-02-09 07:57:06]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 4|
+[2020-02-10 01:58:08]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;lookup <@!542058542853521461>|
+[2020-02-10 01:58:16]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;scan warn|
+[2020-02-10 13:34:01]: ClearlyElevated#0001 (ID:542058542853521461) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@676325393929732096>|
+[2020-02-10 13:35:13]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 4|
+[2020-02-11 00:04:02]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@556161619915440169>|
+[2020-02-11 11:58:12]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!676651061120860200> Name alludes to criminal activity; change it.|
+[2020-02-11 11:58:39]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!676637211692892161> Spamming <#618285318407192614> channel|
+[2020-02-11 12:54:05]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;stats|
+[2020-02-11 12:54:18]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;ping|
+[2020-02-11 12:54:32]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;eval this.client|
+[2020-02-11 12:54:49]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;clear 5|
+[2020-02-11 20:22:25]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-02-11 20:22:47]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-02-12 00:16:22]: ClearlyElevated#0001 (ID:542058542853521461) ran echo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!echo 1148|
+[2020-02-12 05:49:44]: ClearlyElevated#0001 (ID:542058542853521461) ran appeal in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?appeal|
+[2020-02-12 05:49:52]: ClearlyElevated#0001 (ID:542058542853521461) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-02-12 05:50:27]: ClearlyElevated#0001 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?case 869334 approve|
+[2020-02-12 05:50:34]: ClearlyElevated#0001 (ID:542058542853521461) ran appeal in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?appeal|
+[2020-02-12 05:51:51]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help appeal|
+[2020-02-12 05:52:02]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-02-12 05:52:35]: ClearlyElevated#0001 (ID:542058542853521461) ran kick in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?kick <@591446835244040232>|
+[2020-02-12 05:53:24]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 50|
+[2020-02-12 05:53:49]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help banlist|
+[2020-02-12 05:54:21]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lookup <@!542058542853521461>|
+[2020-02-12 13:25:49]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!95332036700536832> Inappropriate language|
+[2020-02-13 02:27:33]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-02-13 02:27:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-02-13 02:27:45]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help tools|
+[2020-02-13 02:28:06]: ClearlyElevated#0001 (ID:542058542853521461) ran track in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!track H8q4m8s|
+[2020-02-13 02:28:23]: ClearlyElevated#0001 (ID:542058542853521461) ran serverinfo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!serverinfo|
+[2020-02-13 02:29:00]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-13 05:40:24]: ClearlyElevated#0001 (ID:542058542853521461) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@666977325560102932>|
+[2020-02-13 08:09:54]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-02-13 08:09:56]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:09:58]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 08:10:42]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:10:46]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 08:11:42]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:11:43]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 08:12:01]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:13:36]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:13:41]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:14:04]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 08:14:45]: ClearlyElevated#0001 (ID:542058542853521461) ran reload in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!reload info|
+[2020-02-13 08:14:47]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 08:16:00]: ClearlyElevated#0001 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-02-13 17:12:32]: BryanLG2#5499 (ID:216006840285265921) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-02-13 17:12:53]: BryanLG2#5499 (ID:216006840285265921) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help general|
+[2020-02-13 17:13:22]: BryanLG2#5499 (ID:216006840285265921) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help moderation|
+[2020-02-13 17:14:59]: BryanLG2#5499 (ID:216006840285265921) ran myperms in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!myperms|
+[2020-02-13 17:15:22]: BryanLG2#5499 (ID:216006840285265921) ran invite in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!invite|
+[2020-02-13 17:16:14]: BryanLG2#5499 (ID:216006840285265921) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help tags|
+[2020-02-13 18:30:18]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@677576981683896332> Advertising is prohibited on this server. Change your nickname. Thank you.|
+[2020-02-13 21:28:13]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@677576981683896332>|
+[2020-02-14 01:40:33]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@351602771746619392>. Failure to take direction from mod|
+[2020-02-14 07:47:40]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-02-14 07:47:51]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-02-14 07:51:30]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-14 09:13:54]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@677772312325390336>|
+[2020-02-14 09:43:07]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran unban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!unban @fuckclackco|
+[2020-02-14 19:40:47]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report <@256775807135907840> 
+!scan warn|
+[2020-02-14 19:42:04]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@256775807135907840>|
+[2020-02-14 19:56:49]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@255545642636541952> Avatar unacceptable on this server. Change it. Thank you.|
+[2020-02-15 00:10:32]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report <@255545642636541952> Illegal drug avatar|
+[2020-02-15 00:13:21]: ClearlyElevated#0001 (ID:542058542853521461) ran adminrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!adminrole <@&588165589957345291>|
+[2020-02-15 00:13:32]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-02-15 00:13:59]: ClearlyElevated#0001 (ID:542058542853521461) ran ignoredroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ignoredroles add <@&588165589957345291>|
+[2020-02-15 00:14:18]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-02-15 00:14:22]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-02-15 00:14:28]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lookup <@542058542853521461>|
+[2020-02-15 00:17:21]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ev require("../models/bans").findOne({ caseID: "869334" });|
+[2020-02-15 00:17:40]: ClearlyElevated#0001 (ID:542058542853521461) ran eval in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ev require("../models/bans"). findOneAndDelete({ caseID: "869334" });|
+[2020-02-15 00:17:47]: ClearlyElevated#0001 (ID:542058542853521461) ran lookup in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!lookup <@542058542853521461>|
+[2020-02-15 00:17:54]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 99|
+[2020-02-15 00:23:52]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 6|
+[2020-02-15 00:41:54]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report <@255545642636541952> Illegal drug image for avatar|
+[2020-02-15 04:16:05]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-02-15 04:16:13]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-02-15 04:16:17]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-02-15 13:43:12]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@255545642636541952> Reason - Failure to comply with mod's request to change illegal drug avatar image|
+[2020-02-16 18:15:14]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@497238592041648148>. Change your nickname immediately|
+[2020-02-17 13:45:33]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!644019089949327360> Reason: the language used in your name is deemed inappropriate on this server. Please change it immediately.|
+[2020-02-17 16:05:21]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@644019089949327360> Reason: Failure to follow mod's directive to change name|
+[2020-02-18 05:16:06]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@554905310934859827>.  The language used in your nickname is deemed inappropriate on this server. Please change it immediately.|
+[2020-02-18 13:45:08]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!679194594105360396> Reason: Vulgar language unacceptable|
+[2020-02-19 01:57:07]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@599416966842810378> Reason: avatar contains excessively vulgar language|
+[2020-02-19 10:47:04]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@679570671239430177> 
+Unacceptable nickname|
+[2020-02-20 10:15:14]: DeathHound#8339 (ID:571283749652660225) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help|
+[2020-02-20 10:15:57]: DeathHound#8339 (ID:571283749652660225) ran help in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]help settings|
+[2020-02-20 10:16:16]: DeathHound#8339 (ID:571283749652660225) ran settings in Ultimate Advertisements (ID: 562467136224755736)
+Raw Input |]settings|
+[2020-02-21 02:24:15]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@383103000391974932>.  Change avatar eliminating weaponry. Thank you.|
+[2020-02-23 05:25:34]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@680993804131631150> 
+Vulgar language, even misspelled, will not be tolerated on this server.|
+[2020-02-23 06:16:00]: Tetracyl#5880 (ID:275831434772742144) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-02-24 05:43:23]: Phoenix34#0750 (ID:651213728603308032) ran echo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!echo <#580733443386769408>|
+[2020-02-24 05:46:21]: Phoenix34#0750 (ID:651213728603308032) ran echo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!echo <681364597445361766>|
+[2020-02-24 07:51:09]: Phoenix34#0750 (ID:651213728603308032) ran echo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!echo <#580734205856841728>|
+[2020-02-24 14:09:21]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@591243786802167818> Please change your nickname. Thank you|
+[2020-02-24 14:25:56]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@681493602588950549> Your inquiries are against the TOS of this server. If you continue along these lines, I will ban you.|
+[2020-02-24 15:14:30]: WaterLessAxis62<MOD>#9171 (ID:528047503900147743) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn  <@681493602588950549> for using inappropriate language in server.|
+[2020-02-24 15:28:01]: WaterLessAxis62<MOD>#9171 (ID:528047503900147743) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@681493602588950549> for inappropriate post after warning, not listening to staff, using inappropriate language.|
+[2020-02-24 15:42:51]: WaterLessAxis62<MOD>#9171 (ID:528047503900147743) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban  <@681493602588950549> for inappropriate behavior towards staff.|
+[2020-02-25 21:03:37]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@295649179563458563> 
+Nickname vulgar|
+[2020-02-25 21:46:43]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-02-25 21:47:35]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help moderation|
+[2020-02-25 21:48:28]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help tools|
+[2020-02-25 21:48:31]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran stats in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.stats|
+[2020-02-25 21:48:33]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran roles in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.roles|
+[2020-02-25 21:48:36]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran stats in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.stats|
+[2020-02-25 21:48:40]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help tools|
+[2020-02-25 21:48:51]: !  FT 'Kahrbaa.#0046 (ID:470712192329711628) ran echo in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.echo hi|
+[2020-02-25 21:51:02]: ◢◤Myst◢◤#4217 (ID:263022860551847936) ran stats in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.stats|
+[2020-02-26 00:34:28]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-02-26 00:34:35]: X Daniel#0017 (ID:476188720521805825) ran support in Realm X (ID: 579385116443541526)
+Raw Input |?support|
+[2020-02-29 23:02:17]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@683444469860794396> 
+Name is inappropriate. Please change it.|
+[2020-03-01 01:17:12]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-03-01 01:17:26]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-03-01 01:17:30]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-03-01 01:17:42]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help tools|
+[2020-03-01 01:17:49]: ClearlyElevated#0001 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?serverinfo|
+[2020-03-01 01:18:10]: ClearlyElevated#0001 (ID:542058542853521461) ran admins in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?admins|
+[2020-03-01 01:23:28]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole reset|
+[2020-03-01 01:26:15]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-03-01 01:26:22]: X Daniel#0017 (ID:476188720521805825) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-03-01 04:29:25]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 
+542058542853521461|
+[2020-03-01 04:29:38]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch <@!542058542853521461>|
+[2020-03-01 04:30:13]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 595352623809298480|
+[2020-03-01 13:42:04]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@680254618923565186> 
+Reason: Advertising in the lobby|
+[2020-03-01 13:56:43]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@683444469860794396> Reason
+Failure to follow staff's directions|
+[2020-03-01 15:29:38]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 542058542853521461|
+[2020-03-01 15:30:34]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 476188720521805825|
+[2020-03-01 16:04:32]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?clear 15|
+[2020-03-01 16:04:38]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-03-01 16:04:45]: ClearlyElevated#0001 (ID:542058542853521461) ran userinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?userinfo|
+[2020-03-01 16:04:56]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?scan warn|
+[2020-03-01 16:05:09]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?settings|
+[2020-03-01 16:06:16]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help automod|
+[2020-03-01 16:06:23]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-03-01 16:06:39]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help settings|
+[2020-03-02 04:04:43]: Faiq, くん#8455 (ID:297130271864520705) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help|
+[2020-03-02 04:04:50]: Faiq, くん#8455 (ID:297130271864520705) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help moderation|
+[2020-03-03 06:17:46]: Music Master#8030 (ID:386534072106876929) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help moderation|
+[2020-03-03 06:18:31]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 5|
+[2020-03-03 06:18:52]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-03 06:19:00]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 50|
+[2020-03-03 06:19:25]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 50|
+[2020-03-03 06:19:54]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 50|
+[2020-03-03 06:20:22]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 90|
+[2020-03-03 06:21:18]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:21:39]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:22:01]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:24:35]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:25:01]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:25:23]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:25:43]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:26:01]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:26:20]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:26:39]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:26:57]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:27:15]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:27:31]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:27:46]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:28:11]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:28:26]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:28:41]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:29:06]: Music Master#8030 (ID:386534072106876929) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help moderation|
+[2020-03-03 06:29:31]: Music Master#8030 (ID:386534072106876929) ran ban in Discord House (ID: 618096622559035392)
+Raw Input |!ban 683487557069045764 raid|
+[2020-03-03 06:29:46]: Music Master#8030 (ID:386534072106876929) ran ban in Discord House (ID: 618096622559035392)
+Raw Input |!ban 681194540194857162 raid|
+[2020-03-03 06:30:07]: Music Master#8030 (ID:386534072106876929) ran ban in Discord House (ID: 618096622559035392)
+Raw Input |!ban 683486781672259602 raid|
+[2020-03-03 06:30:20]: Music Master#8030 (ID:386534072106876929) ran ban in Discord House (ID: 618096622559035392)
+Raw Input |!ban 663142458657472534 raid|
+[2020-03-03 06:31:29]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:31:44]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:32:03]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:32:17]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:32:34]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:32:50]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:33:03]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:33:18]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:33:32]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:33:46]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:34:02]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:34:15]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:34:49]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:35:04]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:35:21]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:35:40]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:35:54]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:36:06]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:36:19]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:36:32]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:36:45]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:36:58]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:37:07]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:37:26]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:37:37]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:37:47]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:37:56]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:38:11]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:38:24]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:38:42]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:38:55]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:39:17]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:39:37]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:40:01]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:40:10]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 06:40:30]: Music Master#8030 (ID:386534072106876929) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-03 17:02:06]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!651213728603308032> Reason: 
+Pinging all members|
+[2020-03-03 19:17:43]: WaterLessAxis62<MOD>#9171 (ID:528047503900147743) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@392926655884034051> for inappropriate language in <#580733561011961878> chat|
+[2020-03-05 16:48:03]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-03-06 08:33:57]: ClearlyElevated#0001 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-03-06 08:34:00]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-03-06 08:34:10]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole <@&581464178632556574>|
+[2020-03-06 08:34:15]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 5|
+[2020-03-06 08:34:18]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-03-06 17:26:02]: ClearlyElevated#0001 (ID:542058542853521461) ran invite in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!invite|
+[2020-03-08 21:51:54]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole clear|
+[2020-03-08 21:52:03]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole reset|
+[2020-03-08 21:52:08]: ClearlyElevated#0001 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-03-08 21:52:13]: ClearlyElevated#0001 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-03-10 01:18:24]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-03-10 01:18:33]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!settings|
+[2020-03-10 01:18:49]: ClearlyElevated#0001 (ID:542058542853521461) ran antispam in Discord House (ID: 618096622559035392)
+Raw Input |!antispam on|
+[2020-03-10 01:19:42]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help settings|
+[2020-03-10 01:19:55]: ClearlyElevated#0001 (ID:542058542853521461) ran modrole in Discord House (ID: 618096622559035392)
+Raw Input |!modrole Staff Team|
+[2020-03-10 01:20:05]: ClearlyElevated#0001 (ID:542058542853521461) ran modrole in Discord House (ID: 618096622559035392)
+Raw Input |!modrole <@&618097602034139169>|
+[2020-03-10 01:20:14]: ClearlyElevated#0001 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:17:33]: Brain#0001 (ID:189759562910400512) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help moderation|
+[2020-03-10 08:17:58]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:18:04]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 1000|
+[2020-03-10 08:18:12]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:18:25]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:18:31]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:18:37]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:18:50]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:03]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:14]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:23]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:31]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:44]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:19:59]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:20:35]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:22:48]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:23:06]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:23:19]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:23:30]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:23:46]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:23:53]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:24:02]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:24:15]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:24:32]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:24:57]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:25:06]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:27:16]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:27:34]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:27:49]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:28:06]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:28:17]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:28:26]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:28:39]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:28:51]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:30:20]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 100|
+[2020-03-10 08:32:28]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:33:02]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:33:16]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:33:39]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:33:44]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:33:55]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:34:07]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:34:24]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:34:33]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:34:41]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:35:04]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:35:13]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:35:53]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 08:48:05]: SOYAL ✘#1300 (ID:472680171451973632) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help|
+[2020-03-10 08:48:32]: SOYAL ✘#1300 (ID:472680171451973632) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help settings|
+[2020-03-10 11:30:42]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 11:30:54]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 11:31:10]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:37:13]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:37:22]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:37:47]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:37:54]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:00]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:06]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:12]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:29]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:41]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:47]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:38:58]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:41:35]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:41:44]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:42:00]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:42:15]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:42:26]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:42:54]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:03]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:15]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:27]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:38]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:50]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:43:58]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:44:09]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:46:20]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:46:26]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:46:37]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:46:50]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:49:36]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:49:47]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-10 12:50:12]: Brain#0001 (ID:189759562910400512) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 99|
+[2020-03-11 14:14:03]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lockdown on|
+[2020-03-11 14:15:39]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lockdown off|
+[2020-03-11 14:16:04]: ClearlyElevated#0001 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-03-11 14:16:09]: ClearlyElevated#0001 (ID:542058542853521461) ran settings in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?settings|
+[2020-03-11 14:16:41]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?joinrole reset|
+[2020-03-11 14:16:47]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lockdown on|
+[2020-03-11 14:16:59]: ClearlyElevated#0001 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?serverinfo|
+[2020-03-11 14:17:06]: ClearlyElevated#0001 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?lockdown off|
+[2020-03-12 04:28:15]: Tetra#0001 (ID:275831434772742144) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-03-12 09:52:41]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!547239156485455877> Reason:|
+[2020-03-12 15:10:09]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@98148538424242176>. Reason: spamming|
+[2020-03-14 20:48:48]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn  <@319296856142249991> This is not a chat channel. Leave the server and rejoin with a nickname that can be typed with a standard American keyboard|
+[2020-03-15 14:50:12]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole <@&581464178632556574>|
+[2020-03-15 21:09:31]: shazify#1429 (ID:583796101786763267) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help|
+[2020-03-19 11:01:39]: MrAugu#7917 (ID:367302593753645057) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help|
+[2020-03-19 11:01:43]: MrAugu#7917 (ID:367302593753645057) ran stats in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.stats|
+[2020-03-19 13:38:50]: shury#3345 (ID:674272329207119902) ran help in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.help moderation|
+[2020-03-19 15:58:18]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!392926655884034051> 
+Reason: Failure to heed request from mod; use of foul language|
+[2020-03-19 17:54:03]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@688915149389824020> 
+Reason: Nickname is unacceptable|
+[2020-03-20 14:45:26]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!227123394024308740> 
+Reason: Failure to change violent avatar|
+[2020-03-20 16:15:02]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-03-20 16:15:09]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo|
+[2020-03-21 06:27:25]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@674268745534930944>|
+[2020-03-24 00:11:05]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@679061375162515466> 
+Reason: Vulgar foreign language slang|
+[2020-03-24 12:45:14]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!94976518983258112> 
+Reason: Language in the lobby channel|
+[2020-03-24 12:46:48]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!352006627588833300> 
+Reason: Failure to comply with request to remove image from lobby|
+[2020-03-25 12:26:34]: ClearlyElevated#0001 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole <@&581464178632556574>|
+[2020-03-26 01:19:15]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@361336685100793867>|
+[2020-03-26 15:23:35]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@352006627588833300>|
+[2020-03-27 15:28:20]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!687637475476242465>|
+[2020-03-27 15:31:00]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!687637475476242465>|
+[2020-03-27 16:30:24]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@542660902915407921>
+Reason: Rude to members|
+[2020-03-27 16:48:37]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban @ <@693135635417923654>
+Reason: Language, rude to staff|
+[2020-03-27 17:04:22]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban @ <@693139521599963258>
+Reason: verbally abusing member|
+[2020-03-27 17:18:38]: WaterLessAxis62<MOD>#9171 (ID:528047503900147743) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban  <@693143494201442354>|
+[2020-03-28 04:46:22]: NEXT#6065 (ID:480933736276426763) ran ping in MrAugu Headquarters (ID: 630058179547627592)
+Raw Input |.ping|
+[2020-03-28 21:02:54]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@693400574867275847>
+Avoid confrontation on this server|
+[2020-03-28 21:05:39]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@693400574867275847>|
+[2020-03-29 02:04:36]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@221721717058437121> 
+Reason: Failure to change nickname|
+[2020-03-29 07:18:13]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@691019847169212537>|
+[2020-03-30 16:37:27]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help|
+[2020-03-30 16:37:39]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help moderation|
+[2020-03-30 16:37:56]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help settings|
+[2020-03-30 16:38:09]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help tools|
+[2020-03-30 16:39:04]: DeathHound#8339 (ID:571283749652660225) ran eval in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;eval message.channel.send("test")|
+[2020-03-30 16:39:28]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help eval|
+[2020-03-30 16:42:08]: DeathHound#8339 (ID:571283749652660225) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval message.guild.me.permissions.toArray()|
+[2020-03-30 16:44:19]: DeathHound#8339 (ID:571283749652660225) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help banlist|
+[2020-03-30 16:44:39]: DeathHound#8339 (ID:571283749652660225) ran scan in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;scan warn|
+[2020-03-30 16:45:49]: DeathHound#8339 (ID:571283749652660225) ran lookup in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;lookup 380455396281810955|
+[2020-03-30 16:46:48]: DeathHound#8339 (ID:571283749652660225) ran scan in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;scan ban|
+[2020-03-30 16:58:08]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran case in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;case 45454454354 accept|
+[2020-03-30 16:58:30]: TheShadow#8124 (ID:439223656200273932) ran admins in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;admins|
+[2020-03-30 16:58:45]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help|
+[2020-03-30 16:58:56]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help banlist|
+[2020-03-30 16:59:07]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran report in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;report|
+[2020-03-30 16:59:45]: TheShadow#8124 (ID:439223656200273932) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help general|
+[2020-03-30 16:59:49]: TheShadow#8124 (ID:439223656200273932) ran support in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;support|
+[2020-03-30 17:00:18]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran info in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;info|
+[2020-03-30 17:28:38]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-03-30 17:28:46]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help settings|
+[2020-03-30 17:29:05]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help moderation|
+[2020-03-30 17:32:55]: X Daniel#0017 (ID:476188720521805825) ran warn in Realm X (ID: 579385116443541526)
+Raw Input |?warn 1 <@!476188720521805825> Test|
+[2020-03-30 17:33:12]: X Daniel#0017 (ID:476188720521805825) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-03-30 17:33:31]: DeathHound#8339 (ID:571283749652660225) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-03-30 17:35:46]: DeathHound#8339 (ID:571283749652660225) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval message.guild.roles.cache.get("594448676449943554").permissions.toArray()|
+[2020-03-30 17:37:05]: DeathHound#8339 (ID:571283749652660225) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval message.guild.roles.get("594448676449943554").permissions.toArray()|
+[2020-03-30 17:39:55]: X Daniel#0017 (ID:476188720521805825) ran serverinfo in Realm X (ID: 579385116443541526)
+Raw Input |?serverinfo|
+[2020-03-30 17:41:56]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-03-30 17:43:35]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo|
+[2020-03-30 17:44:57]: DeathHound#8339 (ID:571283749652660225) ran info in Realm X (ID: 579385116443541526)
+Raw Input |?info|
+[2020-03-30 17:48:16]: DeathHound#8339 (ID:571283749652660225) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval let role = message.guild.roles.get("594448676449943554")
+let arr = role.permissions.toArray()
+arr.push("MANAGE_ROLES")
+role.setPermissions(arr)|
+[2020-03-30 17:51:50]: DeathHound#8339 (ID:571283749652660225) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval let role = message.guild.roles.get("594448676449943554")
+let arr = role.permissions.toArray()
+arr.push("MANAGE_SERVER")
+role.setPermissions(arr)|
+[2020-03-30 17:53:00]: 이반 | Ivan♡#1312 (ID:379784651792711700) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval let role = message.guild.roles.get("594448676449943554")
+let arr = role.permissions.toArray()
+arr.push("MANAGE_GUILD")
+role.setPermissions(arr)|
+[2020-03-31 14:24:04]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!668923365872107568> 
+Reason: Guy Fawkes reference|
+[2020-03-31 14:35:33]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran unban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!unban @Garth R#0280|
+[2020-03-31 22:41:27]: Solid#1429 (ID:583796101786763267) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-04-03 23:57:02]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@388766789712085002> 
+Reason: Failed to change nickname|
+[2020-04-04 02:33:18]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@605568052251328541> 
+reason: inappropriate language in <#619300252582805505>|
+[2020-04-04 12:51:35]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@695963696031203339> 
+#bot commands is not a chat channel.|
+[2020-04-07 07:12:00]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan warn|
+[2020-04-07 07:16:18]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-04-07 07:16:49]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help settings|
+[2020-04-07 07:16:57]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran joinrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!joinrole reset|
+[2020-04-07 07:17:58]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran modrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!modrole <@&588165589957345291>|
+[2020-04-07 07:18:10]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-04-07 13:47:05]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@692982691104030781> 
+Reason: language|
+[2020-04-07 13:47:29]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@602785765788876810>|
+[2020-04-07 13:48:11]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@696964660473233433>|
+[2020-04-07 13:51:20]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@692982691104030781> 
+Reason: failure to take direction from staff|
+[2020-04-07 16:27:42]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!694001804836339735> 
+Reason: Failure to take direction from staff|
+[2020-04-07 16:44:59]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!694001804836339735> 
+Reason: language and failure to take direction from staff|
+[2020-04-07 20:05:18]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!402247211582488582> 
+Reason: pinging all members|
+[2020-04-08 01:58:30]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!533791272067006475> 
+Reason: Original nickname was vulgar; no reason to suggest member will not continue in that vein|
+[2020-04-08 09:51:45]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran poll in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!poll **Should we create an __official separate area__ for specifically COVID-19 news?**|
+[2020-04-08 09:58:49]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran joinrole in Underground (ID: 543838348062621760)
+Raw Input |]joinrole <@&559659205645172737>|
+[2020-04-08 09:59:00]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 10|
+[2020-04-08 09:59:06]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 4|
+[2020-04-08 09:59:12]: ClearlyElevated-Sick With COVID#0019 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 4|
+[2020-04-11 01:16:54]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@270060097030324234> 
+Reason: vulgar avatar|
+[2020-04-11 12:29:59]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help|
+[2020-04-11 12:30:13]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help moderation|
+[2020-04-11 12:30:36]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help lockdown|
+[2020-04-11 13:01:09]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help|
+[2020-04-11 13:01:17]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help general|
+[2020-04-11 13:01:44]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help|
+[2020-04-11 13:01:53]: ReeceyClone#4627 (ID:145455030453927936) ran help in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?help settings|
+[2020-04-11 19:42:41]: delta_505_.#7430 (ID:436510308463542272) ran invite in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?invite|
+[2020-04-12 11:57:27]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@607640767774588939> 
+Reason: Nickname inappropriate|
+[2020-04-13 23:58:03]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?ping|
+[2020-04-13 23:58:05]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?stats|
+[2020-04-13 23:58:11]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-04-13 23:58:28]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?report|
+[2020-04-14 09:05:48]: Diegol#7811 (ID:456771963797372928) ran scan in OnlyDiscordCraft (ID: 585449682420105225)
+Raw Input |?scan ban|
+[2020-04-14 15:31:36]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!402247211582488582> 
+Reason: Failure to change avatar as requested by staff|
+[2020-04-14 17:03:11]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!402247211582488582> 
+Reason: Failure to change avatar as requested by staff. Used inappropriate slang terminology.|
+[2020-04-14 19:12:55]: DevIos#5637 (ID:420155082365992961) ran help in test (ID: 630005630014324737)
+Raw Input |%help|
+[2020-04-14 20:54:46]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-04-14 20:54:58]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help tools|
+[2020-04-14 20:55:01]: X Daniel#0017 (ID:476188720521805825) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-04-14 20:55:14]: X Daniel#0017 (ID:476188720521805825) ran poll in Realm X (ID: 579385116443541526)
+Raw Input |?poll yes no|
+[2020-04-14 20:55:32]: X Daniel#0017 (ID:476188720521805825) ran admins in Realm X (ID: 579385116443541526)
+Raw Input |?admins|
+[2020-04-14 20:55:48]: X Daniel#0017 (ID:476188720521805825) ran roles in Realm X (ID: 579385116443541526)
+Raw Input |?roles|
+[2020-04-14 21:04:55]: X Daniel#0017 (ID:476188720521805825) ran serverinfo in Realm X (ID: 579385116443541526)
+Raw Input |?serverinfo|
+[2020-04-14 21:33:17]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 15|
+[2020-04-15 09:26:46]: GenryMg#0001 (ID:504198229492236309) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-04-16 20:34:15]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@527054268692168705>
+Reason: Inappropriate urban slang|
+[2020-04-18 13:09:18]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-04-18 13:09:37]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-04-18 13:30:06]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 50|
+[2020-04-18 13:49:08]: ClearlyElevated#0420 (ID:542058542853521461) ran poll in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!poll Keep <#618285318407192614> open for everyone?|
+[2020-04-18 23:40:05]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-04-18 23:40:13]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 4|
+[2020-04-21 12:10:50]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!702054650907459697>|
+[2020-04-21 12:24:40]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!621975612633907202> Reason: Harrassing staff|
+[2020-04-22 12:24:12]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@475071449590136832>|
+[2020-04-22 12:25:56]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@702398315504861254>|
+[2020-04-22 13:33:48]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@513886161148706837>|
+[2020-04-22 13:35:24]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@590910317924712460>|
+[2020-04-23 10:33:44]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-04-23 10:35:58]: ClearlyElevated#0420 (ID:542058542853521461) ran lockdown in Realm X (ID: 579385116443541526)
+Raw Input |?lockdown off|
+[2020-04-23 10:36:07]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-04-23 13:56:24]: X Daniel#0017 (ID:476188720521805825) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-04-23 13:56:42]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-04-23 13:56:52]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help settings|
+[2020-04-23 13:57:04]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help general|
+[2020-04-23 13:57:10]: X Daniel#0017 (ID:476188720521805825) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-04-23 13:57:28]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-04-23 13:58:26]: X Daniel#0017 (ID:476188720521805825) ran poll in Realm X (ID: 579385116443541526)
+Raw Input |?poll <#655665456325197846> hi or bye?|
+[2020-04-23 20:06:16]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-04-23 21:04:20]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@423856226007515137>|
+[2020-04-23 21:05:22]: X Daniel#0017 (ID:476188720521805825) ran poll in Realm X (ID: 579385116443541526)
+Raw Input |?poll can i use this?|
+[2020-04-25 15:52:40]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-04-25 15:52:48]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-04-25 15:52:57]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help moderation|
+[2020-04-25 15:53:13]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help mute|
+[2020-04-26 07:27:57]: Οㄗ│SOYAL#9275 (ID:472680171451973632) ran help in 🚀Space Bots List (ID: 527862771014959134)
+Raw Input |%help|
+[2020-04-26 14:37:27]: ClearlyElevated#0420 (ID:542058542853521461) ran error in Realm X (ID: 579385116443541526)
+Raw Input |?error k9d992n8|
+[2020-04-26 14:37:55]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval this.client.commands|
+[2020-04-26 14:38:01]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 50|
+[2020-04-26 14:44:39]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?report|
+[2020-04-26 14:45:04]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?clear 10|
+[2020-04-26 14:46:45]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?case 738457 approve|
+[2020-04-26 14:59:02]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!Scan warm|
+[2020-04-28 03:14:18]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@704503314552717333>|
+[2020-04-28 08:22:52]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Underground (ID: 543838348062621760)
+Raw Input |]report|
+[2020-04-28 08:23:10]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 5|
+[2020-04-28 08:23:16]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 10|
+[2020-04-28 08:23:19]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Underground (ID: 543838348062621760)
+Raw Input |]report|
+[2020-04-28 08:23:35]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 10|
+[2020-04-28 08:23:38]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Underground (ID: 543838348062621760)
+Raw Input |]report|
+[2020-04-28 08:24:18]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Underground (ID: 543838348062621760)
+Raw Input |]case 421621 approve|
+[2020-04-28 16:15:10]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Discord House (ID: 618096622559035392)
+Raw Input |!ping|
+[2020-04-28 16:15:16]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Discord House (ID: 618096622559035392)
+Raw Input |!stats|
+[2020-04-28 16:15:27]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!settings|
+[2020-04-28 16:15:53]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-04-28 16:16:01]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help tags|
+[2020-04-28 16:16:10]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags test hi|
+[2020-04-28 16:16:17]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags add|
+[2020-04-28 16:16:23]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags add hi|
+[2020-04-28 16:16:30]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags add hi hi|
+[2020-04-28 16:16:37]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags list|
+[2020-04-28 16:16:42]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags list 1|
+[2020-04-28 16:16:47]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags show 1|
+[2020-04-28 16:16:52]: ClearlyElevated#0420 (ID:542058542853521461) ran tags in Discord House (ID: 618096622559035392)
+Raw Input |!tags view 1|
+[2020-04-28 16:16:57]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 25|
+[2020-04-28 16:17:02]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-04-28 16:17:11]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help general|
+[2020-04-28 16:17:34]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Discord House (ID: 618096622559035392)
+Raw Input |!status Starting Maintenance|
+[2020-04-28 16:17:58]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Discord House (ID: 618096622559035392)
+Raw Input |!status dnd|
+[2020-04-28 16:18:05]: ClearlyElevated#0420 (ID:542058542853521461) ran support in Discord House (ID: 618096622559035392)
+Raw Input |!support|
+[2020-04-28 17:21:12]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?settings|
+[2020-04-28 17:25:31]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-04-28 17:25:51]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-04-28 17:26:02]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!case 983293 approve|
+[2020-04-29 03:35:33]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@217000302266679296>
+Reason: please watch your language and change your transistor so it's legible in English. Thank you|
+[2020-04-29 04:43:46]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@370739873373487107> 
+Please change your translator so it reads in English and remove the tag advertising your employer|
+[2020-04-29 06:22:21]: ScanAZ#3936 (ID:580261732694491137) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban @Jayjurkin77|
+[2020-04-29 06:39:09]: ScanAZ#3936 (ID:580261732694491137) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-04-29 06:39:46]: ScanAZ#3936 (ID:580261732694491137) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-04-30 04:28:58]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 25|
+[2020-04-30 04:41:20]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?help|
+[2020-04-30 04:41:28]: ClearlyElevated#0420 (ID:542058542853521461) ran prefix in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |?prefix !|
+[2020-04-30 04:41:31]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help|
+[2020-05-01 04:03:26]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@658713580698337290>|
+[2020-05-02 22:13:23]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-05-03 01:13:41]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@344646524959195163> 
+Teaso: There are be multiple meanings for WSP - one is unacceptable ; issuing a warning only. Inappropriate for bot commands channel though|
+[2020-05-05 21:35:22]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-05-07 02:38:53]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@140130113273462784> 
+Reason: inappropriate language to staff|
+[2020-05-07 19:20:20]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@423856226007515137> 
+Reason: bot commands is not a chat channel. Had not complied with 3 separate name change requests|
+[2020-05-08 13:52:20]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@529179592603467778> 
+Reason: Failure to remove political reference associated with nickname|
+[2020-05-08 17:48:11]: James WeinsDean#9345 (ID:432280334894104586) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 432280334894104586|
+[2020-05-08 18:23:07]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@529179592603467778> 
+Reason: Failure to remove political reference associated with name|
+[2020-05-08 19:38:34]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown on|
+[2020-05-08 19:39:03]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown off|
+[2020-05-08 20:21:26]: X Daniel#0017 (ID:476188720521805825) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 571283749652660225|
+[2020-05-08 23:25:01]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-05-08 23:25:07]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-05-09 12:46:05]: ClearlyElevated#0420 (ID:542058542853521461) ran modlog in Scanner Radio® (Support Tickets) (ID: 561337525868953630)
+Raw Input |>modlog reset|
+[2020-05-11 15:35:29]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!651256564216365056> 
+Reason: you were previously notified certain subjects are not acceptable on this site. Sex is one of them.|
+[2020-05-12 08:26:30]: ClearlyElevated#0420 (ID:542058542853521461) ran joinrole in Discord House (ID: 618096622559035392)
+Raw Input |!joinrole reset|
+[2020-05-12 08:26:34]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!settings|
+[2020-05-12 08:29:21]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 25|
+[2020-05-12 14:25:18]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo|
+[2020-05-16 05:22:08]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-05-16 05:22:13]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-05-16 05:22:50]: ClearlyElevated#0420 (ID:542058542853521461) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@272124344019320832> || Explicit Status |||
+[2020-05-18 15:49:04]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-05-18 16:03:30]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 10|
+[2020-05-18 16:03:35]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 10|
+[2020-05-18 16:03:41]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 15|
+[2020-05-18 16:03:54]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 9|
+[2020-05-19 13:49:49]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-05-19 13:53:28]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 10|
+[2020-05-19 13:53:34]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-05-19 19:55:04]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@421834983141801985>|
+[2020-05-20 03:50:32]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@599428311029907456> 
+See ModMail|
+[2020-05-20 12:58:23]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!599428311029907456>|
+[2020-05-24 22:55:46]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@523194069040758794>|
+[2020-05-25 08:56:59]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Discord House (ID: 618096622559035392)
+Raw Input |!report|
+[2020-05-25 09:00:14]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Discord House (ID: 618096622559035392)
+Raw Input |!case 626583 approve|
+[2020-05-25 09:00:22]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan ban|
+[2020-05-25 09:00:49]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Underground (ID: 543838348062621760)
+Raw Input |]scan ban|
+[2020-05-25 09:01:09]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan ban|
+[2020-05-25 09:01:31]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!scan ban|
+[2020-05-25 09:01:59]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!scan ban|
+[2020-05-26 02:25:32]: ClearlyElevated#0420 (ID:542058542853521461) ran lockdown in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?lockdown on|
+[2020-05-26 12:35:43]: ClearlyElevated#0420 (ID:542058542853521461) ran help in DMs (ID: 0)
+Raw Input |?help|
+[2020-05-26 12:36:00]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?eval 10 @ClearlyElevated#0420|
+[2020-05-26 12:36:13]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?eval this.client|
+[2020-05-26 12:36:28]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config|
+[2020-05-26 12:36:49]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config.admins|
+[2020-05-26 12:37:29]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config.admins.push(“367302593753645057”);|
+[2020-05-26 12:38:44]: ClearlyElevated#0420 (ID:542058542853521461) ran botban in DMs (ID: 0)
+Raw Input |?bb 367302593753645057|
+[2020-05-26 12:38:58]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?eval this.client.config.admins.push|
+[2020-05-26 12:39:17]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config.admins|
+[2020-05-26 12:39:45]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config.admins.push(“367302593753645057”);|
+[2020-05-26 12:40:03]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in DMs (ID: 0)
+Raw Input |?ev this.client.config.admins.push(“367302593753645057”),|
+[2020-05-26 12:45:08]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!status dnd|
+[2020-05-26 12:45:16]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!status invisible|
+[2020-05-26 12:47:53]: ClearlyElevated#0420 (ID:542058542853521461) ran ban in Discord House (ID: 618096622559035392)
+Raw Input |!ban 367302593753645057|
+[2020-05-26 12:48:49]: ClearlyElevated#0420 (ID:542058542853521461) ran lockdown in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?lockdown off|
+[2020-05-28 08:45:13]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!stats|
+[2020-05-28 08:45:40]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lookup <@!542058542853521461>|
+[2020-05-28 18:59:03]: TheShadow#8124 (ID:439223656200273932) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help|
+[2020-05-28 18:59:11]: TheShadow#8124 (ID:439223656200273932) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help bandits|
+[2020-05-28 18:59:22]: TheShadow#8124 (ID:439223656200273932) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help banlist|
+[2020-05-28 18:59:29]: TheShadow#8124 (ID:439223656200273932) ran report in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;report|
+[2020-05-28 19:00:06]: TheShadow#8124 (ID:439223656200273932) ran report in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;report|
+[2020-05-28 19:09:19]: TheShadow#8124 (ID:439223656200273932) ran info in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;info|
+[2020-05-28 21:04:18]: ClearlyElevated#0420 (ID:542058542853521461) ran joinrole in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!joinrole reset|
+[2020-05-28 21:14:31]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!case 366288 approve|
+[2020-05-29 02:46:23]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-05-29 02:46:26]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-05-29 02:46:39]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help general|
+[2020-05-29 02:46:48]: X Daniel#0017 (ID:476188720521805825) ran info in Realm X (ID: 579385116443541526)
+Raw Input |?info|
+[2020-05-29 12:06:32]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@524131907500376064> 
+Reason: nickname has sexual reference|
+[2020-05-29 19:03:21]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@545068801679556628> 
+Reason: Failure to change translator per ModMail request|
+[2020-05-29 23:51:39]: ClearlyElevated#0420 (ID:542058542853521461) ran joinrole in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!joinrole <@&650475336366292992>|
+[2020-05-29 23:51:48]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!settings|
+[2020-05-29 23:52:43]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help|
+[2020-05-29 23:52:52]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help tools|
+[2020-05-29 23:52:59]: ClearlyElevated#0420 (ID:542058542853521461) ran userinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!userinfo|
+[2020-05-29 23:53:09]: ClearlyElevated#0420 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!serverinfo|
+[2020-05-29 23:53:45]: ClearlyElevated#0420 (ID:542058542853521461) ran admins in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!admins|
+[2020-05-29 23:53:59]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help banlist|
+[2020-05-29 23:54:23]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help general|
+[2020-05-29 23:54:34]: ClearlyElevated#0420 (ID:542058542853521461) ran myperms in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!myperms|
+[2020-05-30 09:43:11]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Underground (ID: 543838348062621760)
+Raw Input |?settings|
+[2020-05-30 09:43:41]: ClearlyElevated#0420 (ID:542058542853521461) ran warn in Underground (ID: 543838348062621760)
+Raw Input |?warn <@704062553999016027> spam|
+[2020-05-30 09:46:51]: ClearlyElevated#0420 (ID:542058542853521461) ran joinrole in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!joinrole <@&715670730192191658>|
+[2020-05-30 16:48:01]: X Daniel#0017 (ID:476188720521805825) ran serverinfo in Realm X (ID: 579385116443541526)
+Raw Input |?serverinfo|
+[2020-05-31 18:56:13]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@444964892764667916> 
+Reason: Failure to change inappropriate avatar|
+[2020-06-01 22:40:03]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!settings|
+[2020-06-01 22:41:14]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!scan warn|
+[2020-06-01 22:41:55]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lookup <@!542058542853521461>|
+[2020-06-01 23:38:45]: Ivan S#1312 (ID:379784651792711700) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-02 00:13:06]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@651219601350459428>. Religion and sexual references are prohibited on this server. Please delete the image above and avoid further displays on this chat server|
+[2020-06-02 05:14:10]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Discord House (ID: 618096622559035392)
+Raw Input |!status dnd|
+[2020-06-02 05:14:20]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 25|
+[2020-06-02 05:14:37]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan warn|
+[2020-06-02 05:16:16]: ClearlyElevated#0420 (ID:542058542853521461) ran serverinfo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!serverinfo|
+[2020-06-02 05:16:24]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!scan warn|
+[2020-06-02 06:02:29]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-06-02 10:55:52]: DeathHound#8339 (ID:571283749652660225) ran scan in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;scan warn|
+[2020-06-02 12:20:28]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!105452155820859392> 
+Reason: language|
+[2020-06-02 14:04:25]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;lookup <@715504822840721408>|
+[2020-06-02 14:04:37]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help|
+[2020-06-02 14:04:46]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;help tools|
+[2020-06-02 14:05:03]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;stats|
+[2020-06-02 14:06:03]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;fetch 715504822840721408|
+[2020-06-02 14:07:52]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;settings|
+[2020-06-02 14:08:16]: ClearlyElevated#0420 (ID:542058542853521461) ran antispam in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;antispam status|
+[2020-06-02 14:08:27]: ClearlyElevated#0420 (ID:542058542853521461) ran antispam in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;antispam on|
+[2020-06-02 14:08:36]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;settings|
+[2020-06-02 14:09:07]: ClearlyElevated#0420 (ID:542058542853521461) ran serverinfo in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;serverinfo|
+[2020-06-02 14:09:18]: ClearlyElevated#0420 (ID:542058542853521461) ran admins in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;admins|
+[2020-06-02 14:52:44]: bad_programmer.exe#2791 (ID:715504822840721408) ran fetch in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;fetch 537204893518397474|
+[2020-06-02 14:53:06]: bad_programmer.exe#2791 (ID:715504822840721408) ran fetch in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;fetch 613830302770528269|
+[2020-06-02 17:29:50]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!716007894423830578> 
+Reason: Request to change avatar and acronym on it denied|
+[2020-06-02 22:05:56]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!status idle|
+[2020-06-03 00:24:15]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Discord.Js Bot Creation (ID: 577078771690110996)
+Raw Input |;;stats|
+[2020-06-03 00:32:22]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 99|
+[2020-06-03 11:04:36]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 10|
+[2020-06-03 11:06:11]: ClearlyElevated#0420 (ID:542058542853521461) ran info in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!info|
+[2020-06-03 11:06:27]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!stats|
+[2020-06-03 11:41:55]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!announce|
+[2020-06-03 11:42:21]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help announce <#586758835574669331>|
+[2020-06-03 11:46:11]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!announce <#586758835574669331> #ff0000 Suggestion System **__So we recently added a suggestion system with <@581745439519277077> but some people are having trouble mis understanding how to use it. If you follow my instructions posted yesterday its quite simple. You send the command with the prefix. Directly after the word suggest you type one single space. Then input your suggest and hit send. All while being done in the <#618285318407192614> channel.__** `But since some people I'm sure will be a little confused who are brand new to using bots. I made a different one for @Janitor™#5430 that works similar. This bot can ve mentioned or used with a prefix whatever is easier for you.` **__For Janitor Bot.__** `Use this: }suggest`|
+[2020-06-03 11:46:40]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!announce <#586758835574669331> #ff0000 Suggestions **__So we recently added a suggestion system with ModMail#4050 but some people are having trouble mis understanding how to use it. If you follow my instructions posted yesterday its quite simple. You send the command with the prefix. Directly after the word suggest you type one single space. Then input your suggest and hit send. All while being done in the <#618285318407192614> channel.__** `But since some people I'm sure will be a little confused who are brand new to using bots. I made a different one for @Janitor™#5430 that works similar. This bot can ve mentioned or used with a prefix whatever is easier for you.` **__For Janitor Bot.__** `Use this: }suggest`|
+[2020-06-03 11:48:22]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!announce <#586758835574669331> #ff0000 | Suggestions |**__So we recently added a suggestion system with ModMail#4050 but some people are having trouble mis understanding how to use it. If you follow my instructions posted yesterday its quite simple. You send the command with the prefix. Directly after the word suggest you type one single space. Then input your suggest and hit send. All while being done in the <#618285318407192614> channel.__** `But since some people I'm sure will be a little confused who are brand new to using bots. I made a different one for @Janitor™#5430 that works similar. This bot can ve mentioned or used with a prefix whatever is easier for you.` **__For Janitor Bot.__** `Use this: }suggest`|
+[2020-06-03 11:51:44]: ClearlyElevated#0420 (ID:542058542853521461) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@487051324052078623>|
+[2020-06-03 14:22:59]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo 717580373483323424|
+[2020-06-03 14:23:26]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo <#717580373483323424>|
+[2020-06-03 14:23:42]: X Daniel#0017 (ID:476188720521805825) ran userinfo in Realm X (ID: 579385116443541526)
+Raw Input |?userinfo <@717580373483323424>|
+[2020-06-03 21:46:01]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-06-04 17:08:42]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-06-04 18:32:39]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-06-04 18:38:08]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Realm X (ID: 579385116443541526)
+Raw Input |?announce <#594445614394114048> | #ff0000 | Staff Application | **Wassup everyone? I just figured I would jump on @here and give y’all an update. __I am working on getting the little quirks like missing emojis and such worked out of <@!614381461176451082> as well as trying to revamp this server in the process so that’s why I’m looking for additional help and opening staff application!__ We currently have support team, community helper, partner manager, and Jr moderator positions available! If you aren’t staff currently the only position available for brand new users is partner manager, & community helper. The rest are available to bot staff, & retired staff.** ***__To get started simply head to the `bot-commands` and type `}apply` to get started!__***|
+[2020-06-04 18:38:46]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help announce|
+[2020-06-04 18:38:57]: ClearlyElevated#0420 (ID:542058542853521461) ran announce in Realm X (ID: 579385116443541526)
+Raw Input |?announce <#594445614394114048> #ff0000 | Staff Application | **Wassup everyone? I just figured I would jump on @here and give y’all an update. __I am working on getting the little quirks like missing emojis and such worked out of <@!614381461176451082> as well as trying to revamp this server in the process so that’s why I’m looking for additional help and opening staff application!__ We currently have support team, community helper, partner manager, and Jr moderator positions available! If you aren’t staff currently the only position available for brand new users is partner manager, & community helper. The rest are available to bot staff, & retired staff.** ***__To get started simply head to the `bot-commands` and type `}apply` to get started!__***|
+[2020-06-04 18:39:11]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 99|
+[2020-06-04 21:42:47]: mac#7989 (ID:295978095129657355) ran myperms in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!myperms|
+[2020-06-04 21:43:24]: mac#7989 (ID:295978095129657355) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!eval this.client.guilds.size|
+[2020-06-06 01:54:39]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-06-06 02:47:58]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Underground (ID: 543838348062621760)
+Raw Input |]report|
+[2020-06-06 02:48:29]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Underground (ID: 543838348062621760)
+Raw Input |]case 955381 approve|
+[2020-06-06 02:48:34]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Underground (ID: 543838348062621760)
+Raw Input |]scan ban|
+[2020-06-06 02:49:04]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!scan ban|
+[2020-06-06 02:49:09]: ClearlyElevated#0420 (ID:542058542853521461) ran restart in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!restart|
+[2020-06-06 02:49:44]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan ban|
+[2020-06-06 02:50:08]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan warn|
+[2020-06-07 00:43:29]: ClearlyElevated#0420 (ID:542058542853521461) ran botban in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!botban 503215722407657478|
+[2020-06-07 00:43:38]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lookup 503215722407657478|
+[2020-06-07 13:08:01]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@659945463709171713> 
+Reason: Acronym inapproriate|
+[2020-06-08 12:43:41]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!651219601350459428> 
+Discontinue using acronyms within text|
+[2020-06-10 04:43:19]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-06-11 06:43:35]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!stats|
+[2020-06-11 06:43:47]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!ping|
+[2020-06-11 06:43:59]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!eval this.client.guilds|
+[2020-06-11 23:02:45]: ClearlyElevated#0420 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lockdown on|
+[2020-06-11 23:03:28]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!clear 99|
+[2020-06-11 23:06:18]: ClearlyElevated#0420 (ID:542058542853521461) ran lockdown in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lockdown off|
+[2020-06-11 23:19:07]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!clear 10|
+[2020-06-11 23:25:34]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!report|
+[2020-06-11 23:26:09]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!case 463352 approve|
+[2020-06-11 23:40:54]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 99|
+[2020-06-11 23:40:58]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-06-11 23:41:06]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-06-11 23:41:13]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Realm X (ID: 579385116443541526)
+Raw Input |?status end|
+[2020-06-11 23:41:17]: ClearlyElevated#0420 (ID:542058542853521461) ran status in Realm X (ID: 579385116443541526)
+Raw Input |?status idle|
+[2020-06-11 23:41:47]: ClearlyElevated#0420 (ID:542058542853521461) ran admins in Realm X (ID: 579385116443541526)
+Raw Input |?admins|
+[2020-06-11 23:42:05]: ClearlyElevated#0420 (ID:542058542853521461) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-06-11 23:42:12]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-11 23:42:17]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help banlist|
+[2020-06-11 23:42:23]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-06-11 23:42:31]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help appeal|
+[2020-06-11 23:42:52]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help moderation|
+[2020-06-11 23:43:05]: ClearlyElevated#0420 (ID:542058542853521461) ran lockit in Realm X (ID: 579385116443541526)
+Raw Input |?lockit|
+[2020-06-12 00:42:15]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-06-12 03:46:38]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!clear 5|
+[2020-06-13 00:22:21]: ClearlyElevated#0420 (ID:542058542853521461) ran echo in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!echo <#581314900232634369> **__First 5 People__ To Sign Up For Our __Yearly Premium Subscription__ Can __Get It For Only $15.00!__**|
+[2020-06-13 00:22:52]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-06-14 04:23:13]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Realm X (ID: 579385116443541526)
+Raw Input |?lookup 253542902058188811|
+[2020-06-14 04:23:29]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 253542902058188811|
+[2020-06-14 04:58:26]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Underground (ID: 543838348062621760)
+Raw Input |]report 704062553999016027|
+[2020-06-14 04:59:04]: ClearlyElevated#0420 (ID:542058542853521461) ran case in Underground (ID: 543838348062621760)
+Raw Input |]case 975126 approve|
+[2020-06-14 04:59:09]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Underground (ID: 543838348062621760)
+Raw Input |] scan ban|
+[2020-06-14 12:29:25]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help nick|
+[2020-06-14 12:53:22]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-06-14 12:53:53]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ping|
+[2020-06-14 12:54:06]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-06-14 12:54:44]: ClearlyElevated#0420 (ID:542058542853521461) ran adminrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!adminrole <@&596167414589292544>|
+[2020-06-14 12:55:01]: ClearlyElevated#0420 (ID:542058542853521461) ran modrole in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!modrole <@&606996762363953152>|
+[2020-06-14 12:55:39]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help mod|
+[2020-06-14 12:55:43]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help|
+[2020-06-14 12:55:56]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help settings|
+[2020-06-14 12:56:47]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!punishments add 2 mute 7d|
+[2020-06-14 12:57:25]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!punishments add 3 kick|
+[2020-06-14 12:57:33]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!settings|
+[2020-06-14 12:57:51]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!punishments remove 3|
+[2020-06-14 12:58:41]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!help settings|
+[2020-06-14 12:59:12]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles list|
+[2020-06-14 12:59:39]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add Timezone:『PST』|
+[2020-06-14 12:59:55]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581605155334651915>|
+[2020-06-14 13:00:20]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581605155334651915>|
+[2020-06-14 13:00:28]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581606237536518179>|
+[2020-06-14 13:00:38]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581606540767658016>|
+[2020-06-14 13:00:49]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581606649282822150>|
+[2020-06-14 13:01:00]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles add <@&581606960994975783>|
+[2020-06-14 13:01:07]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles view|
+[2020-06-14 13:01:19]: ClearlyElevated#0420 (ID:542058542853521461) ran selfroles in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!selfroles list|
+[2020-06-14 13:38:59]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran kick in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!kick <@!560518804921122828> 
+Reason: Failed to change name and avatar|
+[2020-06-15 07:12:21]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-16 02:40:14]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-06-16 03:57:52]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Underground (ID: 543838348062621760)
+Raw Input |]fetch 566578715719368704|
+[2020-06-16 03:58:45]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Underground (ID: 543838348062621760)
+Raw Input |]clear 10|
+[2020-06-16 04:28:43]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-06-16 06:58:02]: Cosmic Owl#0001 (ID:186003088346316800) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-06-16 10:00:59]: ClearlyElevated#0420 (ID:542058542853521461) ran echo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!echo > ***__React To This Message To Submit A Support Ticket!__***|
+[2020-06-19 10:00:20]: ClearlyElevated#0420 (ID:542058542853521461) ran kick in Discord House (ID: 618096622559035392)
+Raw Input |!kick <@!689959746224128038>|
+[2020-06-20 08:15:44]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!fetch 529076415694635019|
+[2020-06-20 08:15:55]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!ping|
+[2020-06-20 08:15:58]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!ping|
+[2020-06-20 08:16:01]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!scan warn|
+[2020-06-20 12:11:45]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown on|
+[2020-06-20 12:12:01]: ReeceyClone#4627 (ID:145455030453927936) ran lockdown in Conjure Entertainment (ID: 472765194481958923)
+Raw Input |?lockdown off|
+[2020-06-20 15:22:36]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!clear 10|
+[2020-06-20 15:22:46]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!clear 10|
+[2020-06-20 15:23:01]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!clear 5|
+[2020-06-21 01:19:36]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?ping|
+[2020-06-21 01:19:49]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?help moderation|
+[2020-06-21 01:19:57]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?help automod|
+[2020-06-21 01:20:04]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?help settings|
+[2020-06-21 01:20:37]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?punishments add 1 mute|
+[2020-06-21 01:20:53]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?punishments add 2 kick|
+[2020-06-21 01:21:01]: ClearlyElevated#0420 (ID:542058542853521461) ran punishments in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?punishments add 3 ban|
+[2020-06-21 01:21:10]: ClearlyElevated#0420 (ID:542058542853521461) ran lockit in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?lockit|
+[2020-06-21 02:27:41]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Underground (ID: 543838348062621760)
+Raw Input |]fetch 545247955976978486|
+[2020-06-21 11:35:36]: ClearlyElevated#0420 (ID:542058542853521461) ran scan in Realm X (ID: 579385116443541526)
+Raw Input |?scan warn|
+[2020-06-21 11:35:43]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-06-21 11:36:23]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-06-21 11:36:32]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 100|
+[2020-06-21 11:36:42]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear  80|
+[2020-06-21 11:36:49]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 80|
+[2020-06-21 11:36:59]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-21 11:37:05]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help tools|
+[2020-06-21 11:37:24]: ClearlyElevated#0420 (ID:542058542853521461) ran roles in Realm X (ID: 579385116443541526)
+Raw Input |?roles|
+[2020-06-21 11:37:32]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help roles|
+[2020-06-21 11:37:46]: ClearlyElevated#0420 (ID:542058542853521461) ran roleinfo in Realm X (ID: 579385116443541526)
+Raw Input |?roleinfo <@&639200582695125002>|
+[2020-06-21 11:38:00]: ClearlyElevated#0420 (ID:542058542853521461) ran roleinfo in Realm X (ID: 579385116443541526)
+Raw Input |?roleinfo Lutu|
+[2020-06-21 11:38:48]: ClearlyElevated#0420 (ID:542058542853521461) ran roleinfo in Realm X (ID: 579385116443541526)
+Raw Input |?roleinfo ✘ Manager|
+[2020-06-21 11:39:06]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-06-21 11:39:31]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help moderation|
+[2020-06-21 17:47:17]: ClearlyElevated#0420 (ID:542058542853521461) ran help in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!help|
+[2020-06-21 18:42:50]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-21 18:43:01]: X Daniel#0017 (ID:476188720521805825) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help general|
+[2020-06-21 18:43:07]: X Daniel#0017 (ID:476188720521805825) ran myperms in Realm X (ID: 579385116443541526)
+Raw Input |?myperms|
+[2020-06-21 18:43:34]: X Daniel#0017 (ID:476188720521805825) ran ping in Realm X (ID: 579385116443541526)
+Raw Input |?ping|
+[2020-06-21 19:03:54]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Realm X (ID: 579385116443541526)
+Raw Input |?stats|
+[2020-06-21 19:04:23]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Realm X (ID: 579385116443541526)
+Raw Input |?fetch 476188720521805825|
+[2020-06-21 19:04:56]: ClearlyElevated#0420 (ID:542058542853521461) ran eval in Realm X (ID: 579385116443541526)
+Raw Input |?eval this.client.config.admins|
+[2020-06-21 19:19:18]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report|
+[2020-06-21 19:42:23]: DeathHound.#8339 (ID:571283749652660225) ran case in Realm X (ID: 579385116443541526)
+Raw Input |?case 733747 approve|
+[2020-06-22 15:26:34]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@!694592968295710750>
+Language|
+[2020-06-22 22:55:08]: ClearlyElevated#0420 (ID:542058542853521461) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-06-22 22:55:21]: ClearlyElevated#0420 (ID:542058542853521461) ran joinrole in Realm X (ID: 579385116443541526)
+Raw Input |?joinrole reset|
+[2020-06-22 22:55:52]: ClearlyElevated#0420 (ID:542058542853521461) ran modrole in Realm X (ID: 579385116443541526)
+Raw Input |?modrole <@&639310181771247636>|
+[2020-06-22 22:56:18]: ClearlyElevated#0420 (ID:542058542853521461) ran lockit in Realm X (ID: 579385116443541526)
+Raw Input |?lockit|
+[2020-06-22 22:56:29]: ClearlyElevated#0420 (ID:542058542853521461) ran lockit in Realm X (ID: 579385116443541526)
+Raw Input |?lockit on|
+[2020-06-22 22:57:09]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 10|
+[2020-06-22 22:57:15]: ClearlyElevated#0420 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-06-23 02:18:04]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Underground (ID: 543838348062621760)
+Raw Input |]stats|
+[2020-06-23 02:18:13]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:19]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:30]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:33]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:36]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:40]: ClearlyElevated#0420 (ID:542058542853521461) ran ping in Underground (ID: 543838348062621760)
+Raw Input |]ping|
+[2020-06-23 02:18:45]: ClearlyElevated#0420 (ID:542058542853521461) ran stats in Underground (ID: 543838348062621760)
+Raw Input |]stats|
+[2020-06-23 04:24:45]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!lookup 295978095129657355|
+[2020-06-23 04:24:57]: ClearlyElevated#0420 (ID:542058542853521461) ran checkpoint in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!checkpoint warn|
+[2020-06-23 04:25:08]: ClearlyElevated#0420 (ID:542058542853521461) ran checkpoint in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!checkpoint mode warn|
+[2020-06-23 04:25:36]: ClearlyElevated#0420 (ID:542058542853521461) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup <@295978095129657355>|
+[2020-06-23 10:59:50]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Underground (ID: 543838348062621760)
+Raw Input |]fetch 54205854285352146|
+[2020-06-23 11:00:10]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Underground (ID: 543838348062621760)
+Raw Input |]fetch 409859533691813889|
+[2020-06-23 11:00:32]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Underground (ID: 543838348062621760)
+Raw Input |]fetch 571283749652660225|
+[2020-06-23 11:02:47]: ClearlyElevated#0420 (ID:542058542853521461) ran fetch in Discord House (ID: 618096622559035392)
+Raw Input |!fetch 720756391232405565|
+[2020-06-23 17:07:57]: ClearlyElevated#0420 (ID:542058542853521461) ran report in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!report|
+[2020-06-23 17:12:04]: ClearlyElevated#0420 (ID:542058542853521461) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@202930020396564480> || Unknown Bot |||
+[2020-06-23 17:12:40]: ClearlyElevated#0420 (ID:542058542853521461) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@405747705399214081> || Adding Possibly Harmful Bots |||
+[2020-06-24 00:00:04]: ClearlyElevated#1337 (ID:542058542853521461) ran lockdown in Discord House (ID: 618096622559035392)
+Raw Input |!lockdown on|
+[2020-06-24 00:02:43]: ClearlyElevated#1337 (ID:542058542853521461) ran lockdown in Discord House (ID: 618096622559035392)
+Raw Input |!lockdown off|
+[2020-06-24 00:11:07]: ClearlyElevated#1337 (ID:542058542853521461) ran report in Discord House (ID: 618096622559035392)
+Raw Input |!report|
+[2020-06-24 00:11:44]: ClearlyElevated#1337 (ID:542058542853521461) ran case in Discord House (ID: 618096622559035392)
+Raw Input |!case 637474 approve|
+[2020-06-24 08:28:26]: ClearlyElevated#1337 (ID:542058542853521461) ran stats in Discord House (ID: 618096622559035392)
+Raw Input |!stats|
+[2020-06-24 08:29:43]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help settings|
+[2020-06-24 08:30:07]: ClearlyElevated#1337 (ID:542058542853521461) ran modlog in Discord House (ID: 618096622559035392)
+Raw Input |!modlog status|
+[2020-06-24 08:30:23]: ClearlyElevated#1337 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!Settings|
+[2020-06-24 08:30:59]: ClearlyElevated#1337 (ID:542058542853521461) ran botban in Discord House (ID: 618096622559035392)
+Raw Input |!bb  459175543154147328|
+[2020-06-24 08:32:54]: ClearlyElevated#1337 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!eval this.client.botbans|
+[2020-06-24 08:33:15]: ClearlyElevated#1337 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!eval this.client.botbans.json|
+[2020-06-24 08:33:40]: ClearlyElevated#1337 (ID:542058542853521461) ran eval in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!eval this.client.botbans|
+[2020-06-24 08:34:24]: ClearlyElevated#1337 (ID:542058542853521461) ran report in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?report|
+[2020-06-24 08:34:54]: ClearlyElevated#1337 (ID:542058542853521461) ran case in Lutu Support (Re-Write) (ID: 589035287926013963)
+Raw Input |?case 649553 approve|
+[2020-06-24 19:23:42]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@664652076604850177> 
+Using language prohibited on this server|
+[2020-06-24 20:47:34]: DeathHound.#8339 (ID:571283749652660225) ran ban in Realm X (ID: 579385116443541526)
+Raw Input |?ban <@716636940476350475> Advertising a ||hentai website|| in the server|
+[2020-06-24 20:48:32]: DeathHound.#8339 (ID:571283749652660225) ran report in Realm X (ID: 579385116443541526)
+Raw Input |?report 716636940476350475|
+[2020-06-24 20:49:03]: DeathHound.#8339 (ID:571283749652660225) ran case in Realm X (ID: 579385116443541526)
+Raw Input |?case 943396|
+[2020-06-24 20:49:25]: DeathHound.#8339 (ID:571283749652660225) ran case in Realm X (ID: 579385116443541526)
+Raw Input |?case 943396 accept|
+[2020-06-24 20:49:57]: DeathHound.#8339 (ID:571283749652660225) ran case in Realm X (ID: 579385116443541526)
+Raw Input |?case 943396 approve|
+[2020-06-24 23:44:51]: ClearlyElevated#1337 (ID:542058542853521461) ran settings in Realm X (ID: 579385116443541526)
+Raw Input |?settings|
+[2020-06-24 23:44:59]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help settings|
+[2020-06-24 23:45:13]: ClearlyElevated#1337 (ID:542058542853521461) ran antinsfw in Realm X (ID: 579385116443541526)
+Raw Input |?antinsfw on|
+[2020-06-24 23:47:33]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles list|
+[2020-06-24 23:52:38]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help selfroles|
+[2020-06-24 23:52:58]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles remove 3|
+[2020-06-24 23:53:23]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles add Gender: Female|
+[2020-06-24 23:53:39]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles add <@&594449952047104010>|
+[2020-06-24 23:54:49]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles add <@&594449992505098240>|
+[2020-06-24 23:55:08]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles add <@&632861167471165450>|
+[2020-06-24 23:55:14]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles list|
+[2020-06-24 23:55:31]: ClearlyElevated#1337 (ID:542058542853521461) ran selfroles in Realm X (ID: 579385116443541526)
+Raw Input |?selfroles list|
+[2020-06-25 04:28:36]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran warn in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!warn <@139133576737325057> 
+Unnecessary and disrespectful remark to staff. This will be your last warning.|
+[2020-06-25 07:01:01]: ClearlyElevated#1337 (ID:542058542853521461) ran joinrole in Underground | Creation • Devolopment • Deployment | ALL ABOUT BOTS! (ID: 583972685990854676)
+Raw Input |?joinrole <@&603157230816329771>|
+[2020-06-25 08:34:18]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Realm X (ID: 579385116443541526)
+Raw Input |?help|
+[2020-06-25 11:09:35]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 5|
+[2020-06-25 11:09:39]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 25|
+[2020-06-25 11:18:02]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 10|
+[2020-06-25 11:18:09]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 5|
+[2020-06-25 12:16:28]: Support Team | LadyHardHat#3518 (ID:542580081470472193) ran ban in Official Scanner Radio (ID: 540630552609554453)
+Raw Input |!ban <@!139133576737325057> 
+Reason: Became argumentative with staff|
+[2020-06-25 13:36:58]: Rika#4749 (ID:277428603447279626) ran info in Discord House (ID: 618096622559035392)
+Raw Input |!info|
+[2020-06-25 13:37:11]: Rika#4749 (ID:277428603447279626) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-06-25 13:37:23]: Rika#4749 (ID:277428603447279626) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help banlist|
+[2020-06-26 03:44:41]: ClearlyElevated#1337 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!ping|
+[2020-06-26 03:45:08]: ClearlyElevated#1337 (ID:542058542853521461) ran warn in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!warn 1 <@514067178514022403> || Ads |||
+[2020-06-26 03:46:24]: ClearlyElevated#1337 (ID:542058542853521461) ran settings in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!settings|
+[2020-06-26 03:47:05]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments reset|
+[2020-06-26 03:47:44]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments 1 mute 24hr|
+[2020-06-26 03:48:00]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments add 1 mute 24|
+[2020-06-26 03:48:32]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments remove 1|
+[2020-06-26 03:48:49]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments add 1 mute 24|
+[2020-06-26 03:49:04]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments remove 2|
+[2020-06-26 03:49:14]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments add 2 kick|
+[2020-06-26 03:49:30]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments remove 3|
+[2020-06-26 03:49:41]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!punishments add 3 ban|
+[2020-06-26 04:01:15]: ClearlyElevated#1337 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan warn|
+[2020-06-26 04:04:02]: ClearlyElevated#1337 (ID:542058542853521461) ran report in Discord House (ID: 618096622559035392)
+Raw Input |!report|
+[2020-06-26 04:04:44]: ClearlyElevated#1337 (ID:542058542853521461) ran case in Discord House (ID: 618096622559035392)
+Raw Input |!case 939564 approve|
+[2020-06-26 04:05:02]: ClearlyElevated#1337 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!settings|
+[2020-06-26 04:05:16]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Discord House (ID: 618096622559035392)
+Raw Input |!punishments add 1 mute 24|
+[2020-06-26 04:05:34]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Discord House (ID: 618096622559035392)
+Raw Input |!punishments add 2 mute 7|
+[2020-06-26 04:05:52]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Discord House (ID: 618096622559035392)
+Raw Input |!punishments add 3 kick|
+[2020-06-26 04:06:00]: ClearlyElevated#1337 (ID:542058542853521461) ran punishments in Discord House (ID: 618096622559035392)
+Raw Input |!punishments add 4 ban|
+[2020-06-26 04:06:25]: ClearlyElevated#1337 (ID:542058542853521461) ran settings in Discord House (ID: 618096622559035392)
+Raw Input |!settings|
+[2020-06-26 04:06:44]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help settings|
+[2020-06-26 04:06:59]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help automod|
+[2020-06-26 04:07:08]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help mod|
+[2020-06-26 04:07:16]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help moderation|
+[2020-06-26 04:07:57]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help|
+[2020-06-26 04:08:09]: ClearlyElevated#1337 (ID:542058542853521461) ran help in Discord House (ID: 618096622559035392)
+Raw Input |!help general|
+[2020-06-26 04:08:41]: ClearlyElevated#1337 (ID:542058542853521461) ran myperms in Discord House (ID: 618096622559035392)
+Raw Input |!myperms|
+[2020-06-26 04:09:10]: ClearlyElevated#1337 (ID:542058542853521461) ran status in Discord House (ID: 618096622559035392)
+Raw Input |!status dnd|
+[2020-06-26 04:09:21]: ClearlyElevated#1337 (ID:542058542853521461) ran ping in Discord House (ID: 618096622559035392)
+Raw Input |!ping|
+[2020-06-26 04:09:33]: ClearlyElevated#1337 (ID:542058542853521461) ran check in Discord House (ID: 618096622559035392)
+Raw Input |!check <@514067178514022403>|
+[2020-06-26 04:09:48]: ClearlyElevated#1337 (ID:542058542853521461) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup <@514067178514022403>|
+[2020-06-26 04:10:21]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Discord House (ID: 618096622559035392)
+Raw Input |!clear 20|
+[2020-06-26 04:10:35]: ClearlyElevated#1337 (ID:542058542853521461) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup <@!542058542853521461>|
+[2020-06-26 04:10:44]: ClearlyElevated#1337 (ID:542058542853521461) ran check in Discord House (ID: 618096622559035392)
+Raw Input |!check <@!542058542853521461>|
+[2020-06-26 04:10:51]: ClearlyElevated#1337 (ID:542058542853521461) ran scan in Discord House (ID: 618096622559035392)
+Raw Input |!scan warn|
+[2020-06-26 04:11:18]: ClearlyElevated#1337 (ID:542058542853521461) ran lookup in Discord House (ID: 618096622559035392)
+Raw Input |!lookup <@514067178514022403>|
+[2020-06-26 04:28:15]: ClearlyElevated#1337 (ID:542058542853521461) ran stats in Discord House (ID: 618096622559035392)
+Raw Input |!stats|
+[2020-06-26 05:37:35]: ClearlyElevated#1337 (ID:542058542853521461) ran ping in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!ping|
+[2020-06-26 05:42:42]: ClearlyElevated#1337 (ID:542058542853521461) ran echo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!echo <#650479351229317120> **__We have updated our ModMail system a bit. And made it more stable.__ So instead of `ClearlyElevated#1337` having to host 6 additional modmail bots for all of the support servers. He made one that allows for the same DM privacy & professional style. But work cross server support!**
+``` ```
+***So from now on, __you will go to a direct message with `Global ModMail#9574` and type `$start` then you will be promoted to enter the server name, you would then enter `Lutu's Headquarters` if you copy both of those commands exactly how they are above a support ticket will be opened with the staff team!__***|
+[2020-06-26 05:43:41]: ClearlyElevated#1337 (ID:542058542853521461) ran echo in Lutu's Headquarters (ID: 523521672829992970)
+Raw Input |!echo <#650479351229317120> **__We have updated our ModMail system a bit. And made it more stable.__**
+``` ```
+***So from now on, __you will go to a direct message with `Global ModMail#9574` and type `$start` then you will be promoted to enter the server name, you would then enter `Lutu's Headquarters` if you copy both of those commands exactly how they are above a support ticket will be opened with the staff team!__*** || <@&650475336366292992> |||
+[2020-06-26 14:51:48]: ClearlyElevated#1337 (ID:542058542853521461) ran clear in Realm X (ID: 579385116443541526)
+Raw Input |?clear 99|

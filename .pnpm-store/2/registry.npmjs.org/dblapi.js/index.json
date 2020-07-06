@@ -1,0 +1,181 @@
+{
+	"name": "dblapi.js",
+	"dist-tags": {
+		"latest": "2.4.0"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "dblapi.js",
+			"version": "1.0.0",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-+BMXsv5DW4VAqMd8prfePs2NLaK/2o8KQw9xIwpb3qlLmWOAWHoJUGK5ex/1GHyncDst0wmeNJcr1PUR7CKTWw==",
+				"shasum": "e41532faabfba27fbbd243e049198512028cdb57",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-1.0.0.tgz",
+				"fileCount": 5,
+				"unpackedSize": 20226
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"1.1.0": {
+			"name": "dblapi.js",
+			"version": "1.1.0",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-P1Bun/JMbGn8NUC8xj7irviUXeGXgB/G4dStiCopatkMkCtROJeH6WSRggbrQ2KMcucZPcpHp98od0OrfiJ1/g==",
+				"shasum": "850f6bac87ffaf8d803529a8348191ea50ff64f7",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-1.1.0.tgz",
+				"fileCount": 5,
+				"unpackedSize": 20326
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"1.1.1": {
+			"name": "dblapi.js",
+			"version": "1.1.1",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-i/+dzF62reOBjZ7aDyPlALMa5/mr2Q0TeqJWlY1HY06fVZeSuK8TMywsCHuxhsmPrhOr+L/OTunD83awhpgO+g==",
+				"shasum": "80f39ba7d936fa55afe5ad34fdece1fe5b74794d",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-1.1.1.tgz",
+				"fileCount": 6,
+				"unpackedSize": 24258
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"1.2.0": {
+			"name": "dblapi.js",
+			"version": "1.2.0",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-vNiHtmqCDG6ZbopRJgkYmIUGCYS38k/dAxE0yQxi2+wrzB4L+ivp3BaQZV5H/aHpC92g9de8wkyAiFeqMPKBYQ==",
+				"shasum": "c9a1ed2db409332eabc97d2ba59da45f36cd692a",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-1.2.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 24367
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"1.2.1": {
+			"name": "dblapi.js",
+			"version": "1.2.1",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-gqvZdJb6fzvx1eKroNlM4eDcp2OPayC1r49d03cKS2BZnJgxRM24hUR2rT2FximtuxSu2os5dtkE3wY5Vke+pA==",
+				"shasum": "93a29eef048626202d06ecf7a03c4240f8e5043e",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-1.2.1.tgz",
+				"fileCount": 6,
+				"unpackedSize": 24685
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"2.0.0": {
+			"name": "dblapi.js",
+			"version": "2.0.0",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-MRdgIhJZm85K47FMDmC/R5snWbiuo2yTzAe2vwmsnfyAS3bdHyeTIMTtixYf21gVz9Favg1ukqfYo/CZVAzHbA==",
+				"shasum": "8f5dd76ae93da984ce068a54ea1bb4e1f81ffec3",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.0.0.tgz",
+				"fileCount": 8,
+				"unpackedSize": 30172
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"2.0.1": {
+			"name": "dblapi.js",
+			"version": "2.0.1",
+			"dependencies": {
+				"snekfetch": "^3.6.4"
+			},
+			"dist": {
+				"integrity": "sha512-nXNKkp14tUoq4Lko2aTuQrAuerrhUbXlBXDJ+FzvH7HHlCH3jJkFFwyW1UdFaeJNe/eO3FC85WDzg5q2z1lIOA==",
+				"shasum": "be1ef88e7a0dd12743a04380cee95acfc0f814a9",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.0.1.tgz",
+				"fileCount": 8,
+				"unpackedSize": 30359,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa4d1QCRA9TVsSAnZWagAACFoP/RCXdilPLGCl0kKuf+98\n2l79D/ErncyhecjIe/Qgm+Ey4j2oR38yrMhOLiAbpGDddukEpMhPx+LYe/wp\n7re8jvm/8/HbPaArjFoZfZOjmJaIehF74NyAFpkq1a5ZZYV8JcUnYpVpf9Q2\nUaBkWyFePgdMZLH0gKbMa6BMwMwP5du6q3PpZcEkdN1NVZI+sp3jTUlC0WNT\n9d01B7p+LuLg9xwSeRNSIMgdvPIncO9+hiMw9F7L6WQs1HEBE70GCBPPy9rx\nPXCF0RU2TwU6IrSfVMD48fOodSz+xlh2OefFv9iakhZRNjcLY8qNboRBMa6F\n0HzEQJKQP1L3nuq66j/poYG94D6t4eS5budD3+BEbLo14v0Y3Qomhq9N9+LG\n9yj+bNvnvJBrnbfrEvbgcbPNS1a0K/Ok1coGxG64mEAAkKXtF0kSeiOOZfQr\nUXE2cAH8tduu8HjHgQ3Ff50c6/fkE8SIv5dEx5LusnbWTdUWr7EG3vz/lYrn\najlkyiH/4AcASuvHiIvklp3pKHECz2DxeaesfZSq+QbYiEdOTtudW9RZ5H1P\nTlBTSakY5NEMaHBg5sdMt/F+5dlEaFhYvpm//U1YYwtf8mSft0xAmVpF/J6N\nk0QsouVAz/myyb8D+oOoPb1GCp5xW/TFcyTmdMEVlndoK9WJt+dDE/en4XPt\nWh3T\r\n=5ClE\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"2.1.0": {
+			"name": "dblapi.js",
+			"version": "2.1.0",
+			"dependencies": {
+				"snekfetch": "^4.0.2"
+			},
+			"dist": {
+				"integrity": "sha512-oz7obgPbQj4MB2sXVXYQ7L+ES6GurVwQoMQ6gP2xPovMIwSZJuyh5QkvjVN+5HiOk3U/SCTcqV9ehWVBMvjmrA==",
+				"shasum": "888ed9f7ae8ad370619d096e5a974925c8326bc9",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.1.0.tgz",
+				"fileCount": 8,
+				"unpackedSize": 31734,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbI6MSCRA9TVsSAnZWagAAP/4QAKBAlOvVGUEn/UB6/icp\nVYqp6qINf4Y9P4MzF4ISqNIBXI9TLpKk5nePXTXFqLcxz7ImUKg327hNUoR5\nOdd4Vm2MyCQdL4O4Ny2v4eiPPCADN5o+DnunaeQwVYEeqoLOCe6d1gzDcFD5\nP/tzWSwlSJeKNqlBXo608rtrAtdz9T0872/2/eOSrahQcuJ/6C97c8eXQAce\nHe804EbgZo+ZVG9V+EZbY8SxEekLcLu31M3OgmCrZJ/J75wEuTubpi7EnEZF\nBigNwkYs1qs0dQLLJ+64+SCC/vHPA40kLrwDAageipa3Khj0wI2ATXEx4Tel\nqhaIwLL6EVrGocfJdK1lnBTZvLZswVhh6CYQKzp1nbbR0gKNnal8bMq4p0tZ\nY7rM5S4JyAXy4L03fBqZq7LroMR1nqXqkEL1FVOcJYhsJ/PukQ9gLIyL32A5\n+PwLEVtz/umJPffQ2cnCRDfMLv3JHSIB9FK+qYacL7er9rn/9Inw8kXXzfj+\nekgyOqpjSn838VWu8mVWR/hhKxfVW2gKwr4nEXv/7Ts1hsr4swvnOhHUJgo+\nyGs7t4nJVnCuKg3xc7po6NkzUUnVv7qGzZpowHFMkyg76b/QFIGZIZ+VS1du\nLQb4tqvqnuZ1r2v/Q4Q/fxMHCqsMtxdtM8BeAMw0Noo4l9WO/O4AinwPYS6q\nHzUy\r\n=DoLv\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"2.2.0": {
+			"name": "dblapi.js",
+			"version": "2.2.0",
+			"dist": {
+				"integrity": "sha512-x+wMDm6dUlRfXenyDQX8gK/efZgbXCxSvFCcWyNuwYWOvFbG+bxXxGIPU+lOa3CRQBXzPolNx0SCgKP+fodxtA==",
+				"shasum": "b1218d6378074135bbff3d0f148a28b9c578204a",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.2.0.tgz",
+				"fileCount": 8,
+				"unpackedSize": 33309,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbUcfvCRA9TVsSAnZWagAA8OsP/RRZS+wKepuLm/SLN79d\nr/9wvfwKnYlwAh19Fd+sU9YfJikgYU6fr7ttizfTGMj+PfrqQVMjRT9dZWtG\nYGRtaGZZO9mlhGXarO68y7PGwwUbBUaD7sR2mGmKMpAcyhPaczBFDQIv3Wsu\nD+cSRlqRBRV0vTD2IvcGGxncFNg/NjdT87ejRHL8kbX8D5DnjdkkqL6Nwpz/\nagmcj2fwGDfOUTYMWvEkGWRxT8XA8zVvNhty575o5yHqoWeZDT0uLhCJpdSk\ndxDQNbuhf9ToMm01oX1lM1M0stvJWbUbvhUMKB4URddaes65c3ScewL4c8zg\n+/OQe5aISHj5Eh5OWDiJf8MgrfZ1N+9TIBN7S7INRix+AU7uuOdP4d+718Sx\n3vmj/xBOh2499ghfwMus5y3CuMTjMfoe6vcZI9Q+1LID8kXD3vPJPKwYBYae\na6BeQRnwPrBth1EVLRVtYbPAck1yXbJmGeSQ+V+Ej63VsTvJLny3r9+7eqEN\nD04JbSYzSphqRvQkyOSHCksOzUv+uEOZAf4r9gvYZH5mElz4i5OgMAFphf2U\nLfUJJgfIhLaQDsU20KqauoqRyLCm1/i2X7Gk+/IH5GnYghUyINYGxbTE+9oE\nFgzvvWWyyxAtEUYaSgl5Y4ajCAsTWPIToq5d3ae/SDAB4QDs86LRFk8yZGPp\n/Glc\r\n=n68w\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"deprecated": "API now requires a valid token for all requests. Upgrade to v2.3.0"
+		},
+		"2.3.0": {
+			"name": "dblapi.js",
+			"version": "2.3.0",
+			"dist": {
+				"integrity": "sha512-8uZQMBg1coJsL5SEN1oPj2dgjgfm0DW7FhP8XWnG2V/xcOJnQNM2kCId1g/pyqm8PYH9346olL1IrLJQ6m0wOg==",
+				"shasum": "9c600cedc9af0a27c9fd770d85e6c25b71cfa43d",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.3.0.tgz",
+				"fileCount": 8,
+				"unpackedSize": 33164,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb2dktCRA9TVsSAnZWagAAX2IP/jyy2H6t/8uT1Qd5L2ot\n1ax55cMfZs5dSD+8J/LDfiUYEvfh9e0v7z0nB5B8uaVtvClgTxJoPzFrlAPW\nOak63XJDY7r/bQAYZEsHzVGN0UjmPZ3s2Ov887xHAoGFUktuM49oZC/0t0yL\nERE1ba3loVZ9NqirPFJbOQpe6gCNtntdKkyZvb6o2lGWSyZE695yrHNFzi14\n184ly7iP/Z6Z7cbhXwZlzXfzwWdbf+Ocyuuu5hVITfjZ1S8sHIK9RGymthyY\nHOe15ez+EO5eWeamnJuc9g9zBw58EwOZ3LJ+Ofvkqk/9jzkussC2m2XM2Mon\n8Tt8zgAl2G8WFlr0T4P5jANswqlevLCbH/FMt8i/iv0ArDqXE1Pmgjf6c+aX\nSrn69KiaYtvWp6mifc8kHVxOE1fGFVAmLqiUYBgdT4QZYBn6gsTlxBlSpLso\nl3V+3glXipwJVTp7fKcedO90FQdMFgckPAKVDV+iCm6a89ekI3z1KFy6xWFL\ncQk7TVDU4CGdYuIt/9RmScnIj4IQP/NszVcIwUJKiyBZoEUZicaP9j1qG7cK\niNyvWZgM3AdZvLHJyfa4CUdbJB0F2b+/yGOS7qOPSaNDUd1ZoTmKWVgg6prR\ns4dcFQ74Ultygwfq53a/tlW0cOTEnKoKlI0gbzpMvVJ50QJB2R5cExL+hf+H\nilO/\r\n=qp8M\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"2.3.1": {
+			"name": "dblapi.js",
+			"version": "2.3.1",
+			"dist": {
+				"integrity": "sha512-SmaEknbWCPPyPX269hD2EARdkGlMp2PFsgjF8FsnaTLkWagQKtXO+K+aVF6FZqJvRrLIrpjv3y1bhK9KWq+coA==",
+				"shasum": "ce1a3ad84a662ae3c6c8ded561b554a744fd7bf0",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.3.1.tgz",
+				"fileCount": 9,
+				"unpackedSize": 33805,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeJyeYCRA9TVsSAnZWagAAljEQAKPdlxRxiU28KUq4c7it\nmkm/CHMO9j4CWQh9CJX6HRcSWaKM9BTBDN37nGvhDy3fLL3N79/xwToeAbKT\nVlSPtwDH9rMPh/vFoU7xiJPxirmBAhYn4W8PxVlHujRzcf6b+ZCpaHAISVbw\n7Zd7RYtCmOX9ycDjDtz3yuVVP1JGqc/yL0CJkR7r9qrHtp3U2dsuq/4ypB4/\niJgq6QPx8icFU7GOZ9CUGsz868ktlS6NP6+SVq2dYquQn/c8xjepsKBZ/0XE\nxK5d+hKqAWeH6Ji6TnXC3esnK8JVfbUfOiH1G1IpSDWiKT1nc5eTyxIz9GPI\nwlDinWu7YQHfpC69hu7A+6bl2f97tBhZD49F3yua4ZrSVlGGYuyNGvmq8u/S\nCjtVeCwpbhjt0tAoNbCnkfTznlusY7UIKaLbL6In/+jMdktgkBqiwDcwzDI+\nqzfxdFwDvdOmEEbmAs/pSas1WKgUK5qkdKVQQhgWG0iMZf5b2vim0GAcVNdn\nRp8Oi4fuk8NgWr529vkWSsc+EeIYsoTODJ1tahW0bQG1h1hTYT16u82IEZvQ\nynE4HwKzZwhGokf+J2BqtIlO9d7FTJSTSjYbvcQr7dWS8hNceCjC5fS1baDM\n7P5/sPQuWxTB6NKxyTPPxpGvqdVVZq71AwjjDb52SFHkS8tpsvD6gCeHOdL7\n3sXl\r\n=65OV\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"2.4.0": {
+			"name": "dblapi.js",
+			"version": "2.4.0",
+			"dist": {
+				"integrity": "sha512-SqDYVcV1DBQnyhySTjd+Qvzu7jFr+4eKwl56fGpIti7OlXGF5dmDPeo3jQfRlOXTRn5/I5997MDIJukoDxE3Mg==",
+				"shasum": "5e209847f2625e380dabaff925baacee33a66791",
+				"tarball": "https://registry.npmjs.org/dblapi.js/-/dblapi.js-2.4.0.tgz",
+				"fileCount": 9,
+				"unpackedSize": 33713,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeYmIsCRA9TVsSAnZWagAA9vIP/07eNKDdCKvgqx05JY5e\nQ6Rh9krwvn3fZnl48L0ZDtWfBq/scRm4fe5izYLZiuVRu5PFh+KQjhNnvbZs\nl3ZfY4VaVZcG0Mra2c1YlIKHGqlbDCuIl1RtD1W93BufrZLdipDiJgmmMVpb\npkAfAyv+CAlKFk7OdiVEKZSCdCgPinI8EaikQheCpfEq5wurHfl3NZpIUiKX\nEcFbAT+OQqmWqGZAGXXgdtL2cfWw/q8BKFFg82df26ZKAGkrWyIMdWpRSfpX\nphzAgxs5OQasc+akKDLzBVXHpvoumC4Rp9kznFzj4YCXHD1r3OQsf7pL+PbH\nVKx8f6KCRpukQ5NiCoRBkl7CaKjdWcX7olrfYNzySzmZ8Z5zGXmneidfZGgW\n45yn0w0J+lF4EtfXeIvYl+g74v6X6NSQ/Ke/7z6dj/NP4ernluEZ2lZ4mIQ0\nLXeYUlNs/PLdGVyT3UC4dxVvo/aExU5q9ciK79CK23Gy5D2mZs5mP1BDZ03S\nmFwWbED6cMSpow0zf6JAEhbXMFDhsTykI66SFSyEi3QTfOxgihdpCqAPMz3K\nxc3+wlWM9pgkHlBOgj/gr4P5cf73QvbAQRi1oMGouGK/vDjmpmHlRTVl8O0t\nK5wPtrpJ1wS1gNMiMGYQgjKz2b78ALUI4SbgOK+xPaLTKRoQOcDbcC35gfaW\nC5hK\r\n=V3Kf\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"modified": "2020-03-06T14:46:06.969Z",
+	"cachedAt": 1593867026745
+}
